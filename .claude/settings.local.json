@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(dir /b \"d:\\\\Coding\\\\gangubuy-tax-revised\")",
+      "WebFetch(domain:app.animaker.com)",
+      "Bash(dir /s /b /ad \"d:\\\\Coding\\\\gangubuy-tax-revised\\\\revised\")",
+      "Bash(findstr:*)"
+    ],
+    "additionalDirectories": [
+      "d:\\Coding\\gangubuy-tax-revised\\.data\\toc\\localtax-law1"
+    ]
+  }
+}
