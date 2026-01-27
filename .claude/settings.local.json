@@ -6,10 +6,15 @@
       "WebFetch(domain:app.animaker.com)",
       "Bash(dir /s /b /ad \"d:\\\\Coding\\\\gangubuy-tax-revised\\\\revised\")",
       "Bash(findstr:*)",
+<<<<<<< HEAD
       "Bash(tree:*)",
       "Bash(copy \"d:\\\\Coding\\\\gangubuy-tax-revised\\\\dreamtax\\\\pages\\\\p006.pdf\" \"d:\\\\Coding\\\\gangubuy-tax-revised\\\\dreamtax\\\\index\\\\p006.pdf\")",
       "Bash(copy:*)",
       "Bash(powershell -Command:*)"
+=======
+      "Bash(dir /s \"c:\\\\Users\\\\user\\\\Downloads\\\\coding\\\\gangubuy-tax-revised\")",
+      "Bash(dir:*)"
+>>>>>>> 56a89f9262c65ad6f5d10545b33e1cce2e3f7c91
     ],
     "additionalDirectories": [
       "d:\\Coding\\gangubuy-tax-revised\\.data\\toc\\localtax-law1"

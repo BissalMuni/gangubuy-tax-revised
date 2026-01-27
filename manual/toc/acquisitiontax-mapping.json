@@ -1,0 +1,221 @@
+{
+  "_info": {
+    "source": "acquisitiontax.pdf",
+    "total_pages": 71,
+    "page_offset": 0,
+    "boundaries_count": 42,
+    "note": "pages.txt 기반 섹션 분류. 섹션명은 PDF 내용 확인 후 업데이트 필요"
+  },
+  "sections": {
+    "01_section": {
+      "_page_start": 1,
+      "_page_end": 1,
+      "_page_count": 1
+    },
+    "02_section": {
+      "_page_start": 2,
+      "_page_end": 16,
+      "_page_count": 15
+    },
+    "03_section": {
+      "_page_start": 17,
+      "_page_end": 18,
+      "_page_count": 2
+    },
+    "04_section": {
+      "_page_start": 19,
+      "_page_end": 19,
+      "_page_count": 1
+    },
+    "05_section": {
+      "_page_start": 20,
+      "_page_end": 20,
+      "_page_count": 1
+    },
+    "06_section": {
+      "_page_start": 21,
+      "_page_end": 21,
+      "_page_count": 1
+    },
+    "07_section": {
+      "_page_start": 22,
+      "_page_end": 22,
+      "_page_count": 1
+    },
+    "08_section": {
+      "_page_start": 23,
+      "_page_end": 26,
+      "_page_count": 4
+    },
+    "09_section": {
+      "_page_start": 27,
+      "_page_end": 27,
+      "_page_count": 1
+    },
+    "10_section": {
+      "_page_start": 28,
+      "_page_end": 29,
+      "_page_count": 2
+    },
+    "11_section": {
+      "_page_start": 30,
+      "_page_end": 33,
+      "_page_count": 4
+    },
+    "12_section": {
+      "_page_start": 34,
+      "_page_end": 35,
+      "_page_count": 2
+    },
+    "13_section": {
+      "_page_start": 36,
+      "_page_end": 36,
+      "_page_count": 1
+    },
+    "14_section": {
+      "_page_start": 37,
+      "_page_end": 37,
+      "_page_count": 1
+    },
+    "15_section": {
+      "_page_start": 38,
+      "_page_end": 38,
+      "_page_count": 1
+    },
+    "16_section": {
+      "_page_start": 39,
+      "_page_end": 39,
+      "_page_count": 1
+    },
+    "17_section": {
+      "_page_start": 40,
+      "_page_end": 42,
+      "_page_count": 3
+    },
+    "18_section": {
+      "_page_start": 43,
+      "_page_end": 43,
+      "_page_count": 1
+    },
+    "19_section": {
+      "_page_start": 44,
+      "_page_end": 44,
+      "_page_count": 1
+    },
+    "20_section": {
+      "_page_start": 45,
+      "_page_end": 46,
+      "_page_count": 2
+    },
+    "21_section": {
+      "_page_start": 47,
+      "_page_end": 47,
+      "_page_count": 1
+    },
+    "22_section": {
+      "_page_start": 48,
+      "_page_end": 48,
+      "_page_count": 1
+    },
+    "23_section": {
+      "_page_start": 49,
+      "_page_end": 49,
+      "_page_count": 1
+    },
+    "24_section": {
+      "_page_start": 50,
+      "_page_end": 50,
+      "_page_count": 1
+    },
+    "25_section": {
+      "_page_start": 51,
+      "_page_end": 51,
+      "_page_count": 1
+    },
+    "26_section": {
+      "_page_start": 52,
+      "_page_end": 53,
+      "_page_count": 2
+    },
+    "27_section": {
+      "_page_start": 54,
+      "_page_end": 54,
+      "_page_count": 1
+    },
+    "28_section": {
+      "_page_start": 55,
+      "_page_end": 56,
+      "_page_count": 2
+    },
+    "29_section": {
+      "_page_start": 57,
+      "_page_end": 57,
+      "_page_count": 1
+    },
+    "30_section": {
+      "_page_start": 58,
+      "_page_end": 58,
+      "_page_count": 1
+    },
+    "31_section": {
+      "_page_start": 59,
+      "_page_end": 59,
+      "_page_count": 1
+    },
+    "32_section": {
+      "_page_start": 60,
+      "_page_end": 60,
+      "_page_count": 1
+    },
+    "33_section": {
+      "_page_start": 61,
+      "_page_end": 61,
+      "_page_count": 1
+    },
+    "34_section": {
+      "_page_start": 62,
+      "_page_end": 62,
+      "_page_count": 1
+    },
+    "35_section": {
+      "_page_start": 63,
+      "_page_end": 63,
+      "_page_count": 1
+    },
+    "36_section": {
+      "_page_start": 64,
+      "_page_end": 64,
+      "_page_count": 1
+    },
+    "37_section": {
+      "_page_start": 65,
+      "_page_end": 66,
+      "_page_count": 2
+    },
+    "38_section": {
+      "_page_start": 67,
+      "_page_end": 67,
+      "_page_count": 1
+    },
+    "39_section": {
+      "_page_start": 68,
+      "_page_end": 68,
+      "_page_count": 1
+    },
+    "40_section": {
+      "_page_start": 69,
+      "_page_end": 69,
+      "_page_count": 1
+    },
+    "41_section": {
+      "_page_start": 70,
+      "_page_end": 70,
+      "_page_count": 1
+    },
+    "42_section": {
+      "_page_start": 71,
+      "_page_end": 71,
+      "_page_count": 1
+    }
+  }
+}
