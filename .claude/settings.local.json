@@ -5,7 +5,9 @@
       "Bash(dir /b \"d:\\\\Coding\\\\gangubuy-tax-revised\")",
       "WebFetch(domain:app.animaker.com)",
       "Bash(dir /s /b /ad \"d:\\\\Coding\\\\gangubuy-tax-revised\\\\revised\")",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(dir /s \"c:\\\\Users\\\\user\\\\Downloads\\\\coding\\\\gangubuy-tax-revised\")",
+      "Bash(dir:*)"
     ],
     "additionalDirectories": [
       "d:\\Coding\\gangubuy-tax-revised\\.data\\toc\\localtax-law1"
