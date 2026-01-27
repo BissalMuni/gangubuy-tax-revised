@@ -1,0 +1,60 @@
+{
+  "_info": {
+    "title": "배우자·직계존비속 부동산 유상거래 증여의제",
+    "category": "Ⅰ_취득세/지방세법",
+    "source_pages": ["p009.pdf", "p010.pdf", "p011.pdf", "p012.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 §7⑪, §10의3②, 시행령 §11의3",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항"
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "가족 간 부동산 거래 아이콘 + 경고 느낌 타이틀",
+      "narration": "부모님한테 집 싸게 사려고요? 잠깐, 이거 모르면 세금 폭탄 맞아요!",
+      "text_overlay": "가족 간 부동산 거래\n주의사항",
+      "assets": ["family_icon", "house_icon", "warning_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "부모→자녀 집 넘기는 장면, 서류+돈 주고받기",
+      "narration": "원래는요, 부모님이나 배우자한테 집 살 때 돈 줬다는 걸 증명만 하면 됐어요. 시세보다 싸게 샀어도 괜찮았거든요.",
+      "text_overlay": "기존\n대가 지급 증명만 하면 OK",
+      "assets": ["parent_character", "child_character", "money_icon", "document_icon"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "계산기 + 빨간 경고등 + 3억/30% 숫자 강조",
+      "narration": "근데 2026년부터 규정이 바뀌어요! 시세보다 너무 싸게 사면 그냥 증여로 봐버려요. 기준은요, 시세랑 차이가 3억 이상이거나 30% 이상일 때예요. 이러면 증여세율로 세금 내야 해요!",
+      "text_overlay": "2026년부터 주의!\n시세 - 거래가\n≥ 3억원 또는 ≥ 30%\n→ 증여로 간주!",
+      "assets": ["calculator", "red_warning", "percentage_chart", "tax_icon"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "아파트 그림 + 숫자 계산 애니메이션 + X 표시",
+      "narration": "예를 들어볼게요. 시세 10억짜리 아파트를 부모님한테 6억에 샀어요. 차이가 4억이죠? 3억 넘으니까 증여로 봐요. 세금 훨씬 많이 내는 거예요!",
+      "text_overlay": "시세 10억 - 6억 = 4억 차이\n3억 초과 → 증여 처리!",
+      "assets": ["apartment_icon", "number_animation", "x_mark", "money_flying"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력(2026.1.1) + 체크 아이콘 + 구독 버튼",
+      "narration": "2026년 1월 1일부터예요! 가족 간 거래 계획 있으시면 꼭 기억하세요!",
+      "text_overlay": "2026.1.1 시행\n구독하고 세금 정보 받기!",
+      "assets": ["calendar_icon", "check_icon", "subscribe_button"]
+    }
+  ]
+}
