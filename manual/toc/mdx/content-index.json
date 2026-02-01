@@ -1,0 +1,350 @@
+{
+  "name": "gangubuy-tax-mdx",
+  "description": "지방세 취득세 내부 매뉴얼 MDX 콘텐츠 인덱스",
+  "version": "1.0",
+  "generated": "2026-01-31",
+  "basePath": "content/",
+  "totalFiles": 25,
+  "tree": {
+    "acquisition": {
+      "_meta": {
+        "label": "취득세",
+        "description": "취득세 관련 세율, 과세표준, 감면 등 종합 안내"
+      },
+      "rates": {
+        "_meta": {
+          "label": "세율",
+          "description": "취득 유형·대상별 세율 안내"
+        },
+        "realestate": {
+          "_meta": {
+            "label": "부동산",
+            "description": "지방세법 §11 부동산 취득세율"
+          },
+          "housing": {
+            "_meta": {
+              "label": "주택",
+              "description": "주택 취득세율 (유상/상속/증여/원시취득/중과)"
+            },
+            "files": [
+              {
+                "filename": "general-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/general-v1.0.mdx",
+                "title": "주택 유상거래 취득세율",
+                "law_reference": "지방세법 §11①8",
+                "source_sections": [4, 5],
+                "tags": ["주택", "유상거래", "세율", "일반취득", "분양"],
+                "summary": "매매·분양·교환 등 유상거래 주택 취득세 1~3%"
+              },
+              {
+                "filename": "inheritance-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/inheritance-v1.0.mdx",
+                "title": "주택 상속 취득세율",
+                "law_reference": "지방세법 §15①, §11①1나",
+                "source_sections": [8, 9],
+                "tags": ["주택", "상속", "세율", "유증", "1가구1주택", "세율특례"],
+                "summary": "일반 상속 2.8%(3.16%), 1가구1주택 상속 0.8%(0.96%)"
+              },
+              {
+                "filename": "gift-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/gift-v1.0.mdx",
+                "title": "주택 증여 취득세율",
+                "law_reference": "지방세법 §11①2, §13의2②, §7⑪",
+                "source_sections": [10],
+                "tags": ["주택", "증여", "세율", "중과", "배우자", "직계존비속", "부담부증여"],
+                "summary": "일반 증여 3.5%(4.0%), 조정지역 3억↑ 중과 12%(12.6%)"
+              },
+              {
+                "filename": "original-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/original-v1.0.mdx",
+                "title": "주택 원시취득/신축 취득세율",
+                "law_reference": "지방세법 §11①3",
+                "source_sections": [7],
+                "tags": ["주택", "원시취득", "신축", "세율", "재건축", "재개발"],
+                "summary": "원시취득 2.8%(3.16%), 재건축·재개발 원조합원/승계조합원/일반분양자 구분"
+              },
+              {
+                "filename": "multi-house-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/multi-house-v1.0.mdx",
+                "title": "다주택자 취득세 중과",
+                "law_reference": "지방세법 §13의2",
+                "source_sections": [2],
+                "tags": ["주택", "다주택", "중과", "조정대상지역"],
+                "summary": "2주택 8%, 3주택 12%, 법인 12%, 일시적 2주택 예외"
+              },
+              {
+                "filename": "corporate-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/corporate-v1.0.mdx",
+                "title": "법인 주택 취득 중과",
+                "law_reference": "지방세법 §13의2①3",
+                "source_sections": [2, 6],
+                "tags": ["법인", "주택", "중과", "취득세"],
+                "summary": "법인 유상취득 12%, 원시취득 2.8%, 상속·증여 별도세율"
+              },
+              {
+                "filename": "luxury-v1.0.mdx",
+                "path": "acquisition/rates/realestate/housing/luxury-v1.0.mdx",
+                "title": "고급주택 취득세 중과",
+                "law_reference": "지방세법 §13⑤1",
+                "source_sections": [2],
+                "tags": ["주택", "고급주택", "중과", "사치성재산"],
+                "summary": "표준세율+8%, 단독 331㎡/공동 245㎡ + 시가표준액 9억 기준"
+              }
+            ]
+          },
+          "farmland": {
+            "_meta": {
+              "label": "농지",
+              "description": "농지 취득세율 (유상/상속/증여)"
+            },
+            "files": [
+              {
+                "filename": "general-v1.0.mdx",
+                "path": "acquisition/rates/realestate/farmland/general-v1.0.mdx",
+                "title": "농지 유상거래 취득세율",
+                "law_reference": "지방세법 §11①1가",
+                "source_sections": [],
+                "tags": ["농지", "유상거래", "세율", "자경농민"],
+                "summary": "취득세 3%, 합계 3.4%, 자경농민 50% 감면"
+              },
+              {
+                "filename": "inheritance-v1.0.mdx",
+                "path": "acquisition/rates/realestate/farmland/inheritance-v1.0.mdx",
+                "title": "농지 상속 취득세율",
+                "law_reference": "지방세법 §11①1나",
+                "source_sections": [],
+                "tags": ["농지", "상속", "세율"],
+                "summary": "취득세 2.8%, 합계 3.16%"
+              },
+              {
+                "filename": "gift-v1.0.mdx",
+                "path": "acquisition/rates/realestate/farmland/gift-v1.0.mdx",
+                "title": "농지 증여 취득세율",
+                "law_reference": "지방세법 §11①2",
+                "source_sections": [],
+                "tags": ["농지", "증여", "세율"],
+                "summary": "취득세 3.5%, 합계 4.0%, 시가인정액 적용(2023 개정)"
+              }
+            ]
+          },
+          "non-farmland": {
+            "_meta": {
+              "label": "농지 외 부동산",
+              "description": "상가·사무실·토지 등 농지 외 부동산 취득세율"
+            },
+            "files": [
+              {
+                "filename": "general-v1.0.mdx",
+                "path": "acquisition/rates/realestate/non-farmland/general-v1.0.mdx",
+                "title": "농지 외 부동산 유상거래 취득세율",
+                "law_reference": "지방세법 §11①1가",
+                "source_sections": [],
+                "tags": ["부동산", "유상거래", "세율", "상가", "오피스텔"],
+                "summary": "취득세 4%, 합계 4.6%"
+              },
+              {
+                "filename": "inheritance-v1.0.mdx",
+                "path": "acquisition/rates/realestate/non-farmland/inheritance-v1.0.mdx",
+                "title": "농지 외 부동산 상속 취득세율",
+                "law_reference": "지방세법 §11①1나",
+                "source_sections": [],
+                "tags": ["부동산", "상속", "세율"],
+                "summary": "취득세 2.8%, 합계 3.16%"
+              },
+              {
+                "filename": "gift-v1.0.mdx",
+                "path": "acquisition/rates/realestate/non-farmland/gift-v1.0.mdx",
+                "title": "농지 외 부동산 증여 취득세율",
+                "law_reference": "지방세법 §11①2",
+                "source_sections": [],
+                "tags": ["부동산", "증여", "세율"],
+                "summary": "취득세 3.5%, 합계 4.0%"
+              },
+              {
+                "filename": "original-v1.0.mdx",
+                "path": "acquisition/rates/realestate/non-farmland/original-v1.0.mdx",
+                "title": "농지 외 부동산 원시취득 세율",
+                "law_reference": "지방세법 §11①3",
+                "source_sections": [26],
+                "tags": ["부동산", "원시취득", "신축", "세율"],
+                "summary": "취득세 2.8%, 합계 3.16%, 신축건물 구비서류 포함"
+              }
+            ]
+          }
+        },
+        "non-realestate": {
+          "_meta": {
+            "label": "부동산 외",
+            "description": "지방세법 §12 부동산 외 과세대상"
+          },
+          "files": [
+            {
+              "filename": "non-realestate-v1.0.mdx",
+              "path": "acquisition/rates/non-realestate/non-realestate-v1.0.mdx",
+              "title": "부동산 외 취득세율 (차량·선박·기계장비·항공기 등)",
+              "law_reference": "지방세법 §11",
+              "source_sections": [28],
+              "tags": ["부동산 외", "선박", "차량", "기계장비"],
+              "summary": "비영업용 승용차 7%, 그 외 차량 5%, 선박 2~3%, 항공기 2%, 회원권 2%"
+            }
+          ]
+        },
+        "common": {
+          "_meta": {
+            "label": "공통 규정",
+            "description": "물건 유형 횡단 적용 공통 세율 규정"
+          },
+          "files": [
+            {
+              "filename": "division-v1.0.mdx",
+              "path": "acquisition/rates/common/division-v1.0.mdx",
+              "title": "공유물분할 취득세",
+              "law_reference": "지방세법 §11①5, §15①4, 시행령 §29조의2",
+              "source_sections": [20],
+              "tags": ["공유물분할", "세율특례", "지분초과", "유상취득"],
+              "summary": "본인 지분 이내 3/1000, 초과분 유상취득 세율"
+            },
+            {
+              "filename": "metro-surcharge-v1.0.mdx",
+              "path": "acquisition/rates/common/metro-surcharge-v1.0.mdx",
+              "title": "과밀억제권역 중과세율",
+              "law_reference": "지방세법 §13①, §13②",
+              "source_sections": [],
+              "tags": ["과밀억제권역", "대도시", "중과", "법인", "공장"],
+              "summary": "법인 본점/공장 신설 → 표준세율 × 3배"
+            },
+            {
+              "filename": "luxury-surcharge-v1.0.mdx",
+              "path": "acquisition/rates/common/luxury-surcharge-v1.0.mdx",
+              "title": "사치성재산 중과세율",
+              "law_reference": "지방세법 §13⑤, 시행령 §28",
+              "source_sections": [],
+              "tags": ["사치성재산", "중과", "별장", "골프장", "고급주택", "고급오락장", "고급선박"],
+              "summary": "표준세율 + 8%(중과기준세율 2% × 400%)"
+            },
+            {
+              "filename": "special-rates-v1.0.mdx",
+              "path": "acquisition/rates/common/special-rates-v1.0.mdx",
+              "title": "취득세 세율 특례 및 감면",
+              "law_reference": "지방세법 §15①6, 지특법 §19, §20, §29, §31, §33②, §36의4, §50, §58②, §73",
+              "source_sections": [13, 14, 15, 16, 17, 18, 23, 24, 25, 27],
+              "tags": ["세율특례", "감면", "경감", "협의이혼", "서민주택", "국가유공자", "임대사업자", "토지수용", "종교시설"],
+              "summary": "12개 감면항목 종합 (협의이혼 1.5%, 서민주택 100%, 국가유공자, 임대사업자 등)"
+            },
+            {
+              "filename": "rate-application-v1.0.mdx",
+              "path": "acquisition/rates/common/rate-application-v1.0.mdx",
+              "title": "과세표준 적용 규정 및 부담부증여",
+              "law_reference": "지방세법 §7⑫, §10, §10의2, §10의3, §10의4",
+              "source_sections": [11, 12],
+              "tags": ["과세표준", "시가인정액", "부담부증여", "유사부동산", "가산세"],
+              "summary": "시가인정액 체계, 부담부증여 유상/무상 구분, 가산세 규정"
+            },
+            {
+              "filename": "exemption-v1.0.mdx",
+              "path": "acquisition/rates/common/exemption-v1.0.mdx",
+              "title": "취득세 면세점",
+              "law_reference": "지방세법 §16, §9①⑥",
+              "source_sections": [37],
+              "tags": ["면세점", "비과세", "50만원", "공동주택", "개수"],
+              "summary": "50만원 이하 비과세, 공동주택 개수(9억 이하) 비과세"
+            },
+            {
+              "filename": "housing-count-v1.0.mdx",
+              "path": "acquisition/rates/common/housing-count-v1.0.mdx",
+              "title": "주택 수 판단 기준",
+              "law_reference": "지방세법 §13의3",
+              "source_sections": [2, 35],
+              "tags": ["주택수", "판단기준", "분양권", "입주권", "오피스텔", "1세대", "상속주택"],
+              "summary": "분양권·입주권·주거용 오피스텔 포함, 상속주택 5년 제외 특례"
+            }
+          ]
+        }
+      },
+      "themes": {
+        "_meta": {
+          "label": "테마별 통합규정",
+          "description": "복수 세율규정을 통합한 테마별 안내"
+        },
+        "files": [
+          {
+            "filename": "multi-house-v1.0.mdx",
+            "path": "acquisition/themes/multi-house-v1.0.mdx",
+            "title": "다주택자 취득세 중과규정 및 취득세율표",
+            "law_reference": "지방세법 §13의2, §13의3, 시행령 §28의2~§28의5",
+            "source_sections": null,
+            "tags": ["다주택자", "중과", "취득세율표", "주택수산정", "일시적2주택", "조정대상지역"],
+            "summary": "다주택 중과 종합 안내 (세율표, 주택수 산정, 예외규정 포함)"
+          },
+          {
+            "filename": "first-time-buyer-v1.0.mdx",
+            "path": "acquisition/themes/first-time-buyer-v1.0.mdx",
+            "title": "생애최초 주택취득 감면",
+            "law_reference": "지방세특례제한법 §36의3",
+            "source_sections": null,
+            "tags": ["생애최초", "주택취득", "감면", "실거주", "추징"],
+            "summary": "생애최초 주택취득 취득세 200만원 한도 감면"
+          }
+        ]
+      },
+      "standard": {
+        "_meta": {
+          "label": "과세표준",
+          "description": "취득세 과세표준 산정 방법"
+        },
+        "files": [
+          {
+            "filename": "standard-v1.0.mdx",
+            "path": "acquisition/standard/standard-v1.0.mdx",
+            "title": "취득세 과세표준",
+            "law_reference": "지방세법 §10",
+            "source_sections": [6],
+            "tags": ["과세표준", "분양", "아파트", "오피스텔", "마이너스프리미엄"],
+            "summary": "분양 아파트·오피스텔 과세표준 산정 (개인/법인, 최초계약자/승계자 구분)"
+          }
+        ]
+      }
+    },
+    "property": {
+      "_meta": {
+        "label": "재산세",
+        "description": "재산세 관련 콘텐츠 (추후 작성)"
+      },
+      "files": []
+    },
+    "vehicle": {
+      "_meta": {
+        "label": "자동차세",
+        "description": "자동차세 관련 콘텐츠 (추후 작성)"
+      },
+      "files": []
+    }
+  },
+  "fileList": [
+    "acquisition/rates/realestate/housing/general-v1.0.mdx",
+    "acquisition/rates/realestate/housing/inheritance-v1.0.mdx",
+    "acquisition/rates/realestate/housing/gift-v1.0.mdx",
+    "acquisition/rates/realestate/housing/original-v1.0.mdx",
+    "acquisition/rates/realestate/housing/multi-house-v1.0.mdx",
+    "acquisition/rates/realestate/housing/corporate-v1.0.mdx",
+    "acquisition/rates/realestate/housing/luxury-v1.0.mdx",
+    "acquisition/rates/realestate/farmland/general-v1.0.mdx",
+    "acquisition/rates/realestate/farmland/inheritance-v1.0.mdx",
+    "acquisition/rates/realestate/farmland/gift-v1.0.mdx",
+    "acquisition/rates/realestate/non-farmland/general-v1.0.mdx",
+    "acquisition/rates/realestate/non-farmland/inheritance-v1.0.mdx",
+    "acquisition/rates/realestate/non-farmland/gift-v1.0.mdx",
+    "acquisition/rates/realestate/non-farmland/original-v1.0.mdx",
+    "acquisition/rates/non-realestate/non-realestate-v1.0.mdx",
+    "acquisition/rates/common/division-v1.0.mdx",
+    "acquisition/rates/common/metro-surcharge-v1.0.mdx",
+    "acquisition/rates/common/luxury-surcharge-v1.0.mdx",
+    "acquisition/rates/common/special-rates-v1.0.mdx",
+    "acquisition/rates/common/rate-application-v1.0.mdx",
+    "acquisition/rates/common/exemption-v1.0.mdx",
+    "acquisition/rates/common/housing-count-v1.0.mdx",
+    "acquisition/themes/multi-house-v1.0.mdx",
+    "acquisition/themes/first-time-buyer-v1.0.mdx",
+    "acquisition/standard/standard-v1.0.mdx"
+  ]
+}
