@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "기업도시개발구역 내 창업기업 등 재산세 감면기간 설정",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p160.pdf", "p161.pdf", "p162.pdf", "p163.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제75조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "재산세 감면기간 최대 8년 신설(5년 50% + 3년 25%), 일몰 3년 연장",
+    "theme": "게임 UI",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "게임 UI 스타일 화면, 기업도시 미션 창 등장, 제제 캐릭터",
+      "narration": "기업도시 창업기업이라면 주목! 재산세 감면 기간이 확 달라졌어요!",
+      "text_overlay": "기업도시 창업기업 재산세 감면",
+      "assets": ["jeje_character", "game_ui_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "게임 스탯 창처럼 기존 감면 현황 표시 — 취득세·재산세 50% 단순 표기",
+      "narration": "기존에는 기업도시개발구역 안에 입주한 창업기업이나 사업시행자가 취득세랑 재산세를 50% 범위 내에서 조례로 정한 만큼 감면받았어요. 근데 재산세는 언제까지 얼마나 감면받는지 기간 규정이 따로 없었거든요.",
+      "text_overlay": "기존: 취득세·재산세 50% (기간 불명확)",
+      "assets": ["jaja_character", "game_stats_panel"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "게임 레벨업 이펙트와 함께 새 감면 구조 등장 — 5년 바와 3년 바 시각화",
+      "narration": "이제 재산세 감면기간이 딱 정해졌어요! 납세의무가 처음 생긴 날부터 5년간은 50% 범위에서, 그 다음 3년간은 25% 범위에서 조례로 경감받을 수 있어요. 최대 8년간 혜택인 거죠! 그리고 일몰기한도 2025년에서 2028년 12월 31일로 3년 연장됐어요. 창업의 범위도 국세와 동일하게 맞춰졌고요.",
+      "text_overlay": "재산세: 5년 50% + 3년 25% = 최대 8년",
+      "assets": ["jeje_character", "red_warning", "level_up_effect"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "타임라인 애니메이션 — 납세의무 성립일 기준 5년+3년 구간 표시",
+      "narration": "예를 들어, 2026년에 납세의무가 생겼다면 2030년까지는 50%, 2031년부터 2033년까지는 25%까지 감면받을 수 있어요. 단, 조례로 각 지자체가 정하는 경감률만큼 적용되는 거니까 지자체 조례도 꼭 확인하세요!",
+      "text_overlay": "2026~ 5년: 50% / 이후 3년: 25%",
+      "assets": ["jaja_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "게임 클리어 화면 스타일, 2028.12.31 달력 + 구독 CTA",
+      "narration": "2026년 1월 1일 시행, 납세의무 성립 이후분부터 적용이에요. 기업도시 창업자라면 꼭 체크하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

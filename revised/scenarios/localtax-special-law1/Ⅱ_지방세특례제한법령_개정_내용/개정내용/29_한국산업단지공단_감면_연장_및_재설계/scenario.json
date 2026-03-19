@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "한국산업단지공단 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p205.pdf", "p206.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제78조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "수도권 감면율 취득세·재산세 35%→25%로 축소, 비수도권은 유지, 3년 연장",
+    "theme": "세무서 창구",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "세무서 창구 배경, 자자가 한국산업단지공단 관련 서류를 들고 설명 준비",
+      "narration": "한국산업단지공단 아시죠? 2026년부터 수도권 소재 부동산 감면율이 바뀌었어요!",
+      "text_overlay": "한국산업단지공단 감면 재설계",
+      "assets": ["jaja_character", "tax_office_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "창구 모니터에 기존 단일 감면율 표시 — 취득세 35%, 재산세 50%",
+      "narration": "기존에는 한국산업단지공단이 공장·지식산업센터 등의 설치·운영이나 입주기업 복지·교육 사업을 위해 취득하는 부동산에 대해 취득세 35%, 재산세 50%를 감면받았어요. 전국 어디나 동일한 감면율이었죠.",
+      "text_overlay": "기존: 취득세 35%, 재산세 50% (전국 동일)",
+      "assets": ["chichi_character", "computer_monitor_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "창구 화면에 수도권·비수도권 분리 비교표 등장, 수도권 수치 빨간 하이라이트",
+      "narration": "이제 수도권과 비수도권을 나눠서 적용해요! 수도권 소재 부동산은 취득세 25%, 재산세 25%로 줄었어요. 비수도권은 기존처럼 취득세 35%, 재산세 50%로 그대로예요. 단, 수도권 내 인구감소지역은 비수도권 기준으로 적용되니까 예외예요! 일몰기한은 2028년 12월 31일로 3년 연장됐어요.",
+      "text_overlay": "수도권: 취득세 25%, 재산세 25% (축소!)",
+      "assets": ["jaja_character", "red_warning", "comparison_table"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "서울 소재 공단 사업용 부동산 vs 대구 소재 비교 카드",
+      "narration": "예를 들어, 서울 수도권에 있는 사업용 부동산이라면 취득세가 35%에서 25%로 줄어요. 반면 대구 비수도권에 있다면 기존과 동일하게 35%예요. 취득 후 3년 이내에 목적 사업에 사용하지 않으면 추징되니까 그 점도 주의하세요!",
+      "text_overlay": "수도권 25% vs 비수도권 35%",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "세무서 창구 도장 찍는 이미지 + 달력 2028.12.31 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 산업단지공단 관련이라면 수도권 여부 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

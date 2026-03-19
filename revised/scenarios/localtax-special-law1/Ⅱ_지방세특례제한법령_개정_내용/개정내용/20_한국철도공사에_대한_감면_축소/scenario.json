@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "한국철도공사에 대한 감면 축소",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p144.pdf", "p145.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제63조 제3항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "카페",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "아늑한 카페 배경. 제제가 커피 들고 '코레일 세금 감면 살짝 바뀐 거 알아요?' 칠판 앞에 등장",
+      "narration": "코레일, 즉 한국철도공사의 지방세 감면이 2026년부터 조금 바뀌어요. 내용은 심플한데 놓치면 안 돼요!",
+      "text_overlay": "한국철도공사 지방세 감면 2026 개편",
+      "assets": ["cafe_bg", "chalkboard", "jeje_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "카페 메뉴판 스타일로 기존 감면 목록 표시. 치치가 메뉴를 보며 확인",
+      "narration": "기존에 코레일은 어떤 혜택을 받았냐면요. 사업용 부동산은 취득세 25%에 재산세 도시지역분까지 포함해서 50% 감면이었어요. 일반철도 차량은 취득세 50%, 고속철도 차량은 취득세 25% 감면이었고요. 이게 2025년 12월 31일로 일몰 예정이었거든요.",
+      "text_overlay": "기존: 부동산 취득세 25%·재산세(도시지역분 포함) 50%",
+      "assets": ["menu_board", "chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "카페 메뉴판에 변경 사항 표시. 도시지역분 항목에 빨간 X. 나머지는 그대로",
+      "narration": "2026년부터 바뀌는 건 딱 한 가지예요. 재산세 도시지역분이 감면 대상에서 빠졌어요. 기존에는 도시지역분까지 합쳐서 재산세 50% 감면이었는데, 이제는 도시지역분은 그냥 내야 해요. 재산세 본세의 50%만 감면이 되는 거죠. 취득세 감면율이나 차량 감면은 그대로예요. 일몰은 2028년 12월 31일까지 3년 연장됐어요.",
+      "text_overlay": "재산세 도시지역분 감면 삭제 | 나머지 유지",
+      "assets": ["red_warning", "red_x_mark", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "카페 영수증 스타일 계산표. 재산세 본세와 도시지역분 분리 계산",
+      "narration": "예를 들어 볼게요. 재산세 본세가 1천만 원이고 도시지역분이 200만 원이라면요. 기존에는 둘 다 합친 1,200만 원의 50%인 600만 원을 감면받았어요. 개정 후에는 본세 1천만 원의 50%인 500만 원만 감면이에요. 도시지역분 200만 원은 그냥 내야 하죠.",
+      "text_overlay": "도시지역분 감면 제외 → 실제 납부액 증가",
+      "assets": ["receipt_style", "chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "카페 달력. 2026.1.1 표시",
+      "narration": "2026년 1월 1일부터 시행이에요! 철도 관련 세무 처리하시는 분들 꼭 체크하세요. 구독도 부탁드려요!",
+      "text_overlay": "2026.1.1 시행 | 2028.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

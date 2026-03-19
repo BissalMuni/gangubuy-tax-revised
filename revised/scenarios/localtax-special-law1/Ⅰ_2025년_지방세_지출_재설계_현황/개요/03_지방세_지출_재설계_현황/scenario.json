@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방세 지출 재설계 현황",
+    "category": "Ⅰ 2025년 지방세 지출 재설계 현황/개요",
+    "source_pages": ["p011.pdf", "p012.pdf", "p013.pdf", "p014.pdf", "p015.pdf", "p016.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §8~§34",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "농어업·사회복지 분야 감면 연장 및 일부 종료",
+    "theme": "탐정 사무소",
+    "characters": ["제제", "치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경, 제제가 탐정 모자를 쓰고 '감면 재설계 현황' 수사 파일을 펼침",
+      "narration": "지방세 감면, 어떤 건 연장되고 어떤 건 잘렸는지 우리가 파헤쳐 볼게요!",
+      "text_overlay": "지방세 지출 재설계 현황",
+      "assets": ["jeje_character", "detective_office_bg", "case_file"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "수사 칠판에 농어업·사회복지 분야 감면 목록 나열, 치치가 하이라이트",
+      "narration": "치치: 농어업이랑 사회복지 분야 감면들이 대거 2025년 12월 31일에 만료되거든요. 이게 다 어떻게 됐을까요?",
+      "text_overlay": "기존 일몰: 2025.12.31.",
+      "assets": ["chichi_character", "case_board"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "수사 칠판에 항목별로 연장(초록), 축소(노랑), 종료(빨강) 도장 찍히는 애니메이션",
+      "narration": "자자: 결론 나왔어요! 농지·소형어선·농협 담보 등기는 3년 연장됩니다. 근데 어업권 등록면허세 감면은 종료예요. 수수료 성격이라서요. 사회복지법인은 연장되지만 추징 요건이 강화됐어요. 법인 해산이나 허가 취소 시에도 세금을 돌려내야 해요!",
+      "text_overlay": "연장: 2028.12.31. / 등록면허세 감면 종료",
+      "assets": ["jaja_character", "red_warning", "green_stamp", "red_stamp"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "한국농어촌공사 감면율 변화 비교 표 애니메이션",
+      "narration": "예를 들어 농어촌공사 농지매매사업이요. 기존에 취득세 50% 감면이었는데, 2026년부터 30%로 줄어요. 20%포인트 줄어드는 거거든요. 꼭 알아두세요!",
+      "text_overlay": "농지매매사업: 취득세 50% → 30%",
+      "assets": ["comparison_table"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "수사 완료 도장, 구독 CTA",
+      "narration": "2026년 1월 1일 시행이에요. 해당되는 분들은 미리 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

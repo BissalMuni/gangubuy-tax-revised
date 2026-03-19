@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "한국농어촌공사 사업별 감면율 축소 및 정비",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p061.pdf", "p062.pdf", "p063.pdf", "p064.pdf", "p065.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §13②",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "농업인, 농어촌공사 관련 종사자",
+    "emphasis": "농지매매사업·농지시장안정사업 취득세 50% → 30% 축소, 일부 사업 종료",
+    "theme": "게임 UI",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "게임 UI 배경, 제제가 농어촌공사 캐릭터로 등장, '사업별 스탯 변경' 알림창",
+      "narration": "한국농어촌공사 감면, 사업마다 다 달라졌어요! 어떤 건 줄고 어떤 건 사라졌거든요!",
+      "text_overlay": "농어촌공사 사업별 감면율 조정",
+      "assets": ["jeje_character", "game_ui_bg", "stat_change_popup"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "게임 캐릭터 스탯 화면처럼 8개 사업별 기존 감면율 표시",
+      "narration": "치치: 기존에는 농지매매사업, 조성토지 처분특례, 생활환경정비, 농지 재개발 같은 사업들이 취득세 25~50% 감면이었어요. 2025년 말 일몰 예정이었는데 어떻게 됐을까요?",
+      "text_overlay": "기존: 농지매매사업 취득세 50% 등",
+      "assets": ["chichi_character", "stat_table_before"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "게임 스탯 화면에 변경 내용 — 숫자 줄거나 삭제된 항목 빨간 경고",
+      "narration": "2026년부터 이렇게 바뀌어요! 농지매매사업이랑 농지시장안정사업 취득세는 50%에서 30%로 줄어요. 그리고 조성토지 처분특례, 생활환경정비, 농지 재개발 사업은 아예 종료돼요! 나머지 경영회생, 과원 규모화, 생산기반정비는 현행 유지예요.",
+      "text_overlay": "축소: 50% → 30% / 종료: 1-3호·4호·4-2호",
+      "assets": ["red_warning", "stat_table_after", "x_mark"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "농지매매사업 취득세 감소 계산 예시 애니메이션",
+      "narration": "예를 들어 농어촌공사가 1억 원짜리 농지를 매매사업으로 취득한다면? 기존엔 50%, 5백만 원 감면이었는데 앞으론 30%, 3백만 원만 감면돼요. 200만 원을 더 내는 거예요!",
+      "text_overlay": "1억 취득 시: 감면 500만원 → 300만원",
+      "assets": ["money_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "게임 달력 UI, 구독 CTA",
+      "narration": "2026년 1월 1일 시행, 일몰은 2028년 12월 31일이에요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "국가철도공단에 대한 감면율 축소",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p141.pdf", "p142.pdf", "p143.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제63조 제1항·제2항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "법원 법정",
+    "characters": ["자자", "제제"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "법원 법정 배경. 자자가 판사 복장으로 '국가철도공단 세금 감면, 이제 달라집니다!' 선고문 들고 등장",
+      "narration": "국가철도공단의 취득세·재산세 감면이 2026년부터 바뀌어요. 공익성과 형평성을 따져서 다시 설계됐거든요.",
+      "text_overlay": "국가철도공단 지방세 감면 개편",
+      "assets": ["courtroom_bg", "judge_gavel", "jaja_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "법정 증거판에 기존 감면 조건 표시. 제제가 변호인 역할로 설명",
+      "narration": "기존에는 국가철도공단이 국가 등에 귀속시키는 철도차량이나 부동산을 취득하면 취득세·재산세를 100% 전액 면제받았어요. 도시지역분 재산세까지 포함해서요. 철도시설용으로 쓰는 일반 부동산은 취득세 25%만 감면이었고요.",
+      "text_overlay": "기존: 국가귀속 재산 취득세·재산세 100% 면제",
+      "assets": ["evidence_board", "jeje_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "법정 판결문 화면. 반대급부 유무에 따른 감면율 분리. 경고 표시",
+      "narration": "2026년부터는 두 가지로 나뉘어요. 반대급부가 없는 경우, 즉 국가가 아무 대가 없이 가져가는 재산은 여전히 100% 면제예요. 그런데 반대급부가 있는 경우, 고속철도처럼 공단이 선로사용료를 받아 건설비를 회수하는 경우엔 50%로 줄어요. 재산세 도시지역분은 이제 감면에서 빠졌고요. 일몰은 2028년까지 3년 연장됐어요.",
+      "text_overlay": "반대급부 無 → 100% | 반대급부 有 → 50%",
+      "assets": ["red_warning", "verdict_document", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "법정 설명판. 일반철도·광역철도(반대급부 없음)와 고속철도(선로사용료=반대급부)의 구분 도식",
+      "narration": "예를 들어 볼게요. 일반철도나 광역철도 시설에 쓰이는 재산은 반대급부가 없으니까 100% 면제예요. 반면 고속철도는요, 공단이 국가로부터 철도시설관리권을 설정받고 선로사용료를 받아서 건설비를 회수하거든요. 그래서 반대급부 있음으로 보고 50%만 감면이에요.",
+      "text_overlay": "일반·광역철도 100% vs 고속철도(선로사용료) 50%",
+      "assets": ["explanation_chart", "jeje_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "법정 달력. 2026.1.1 판결 확정 스탬프",
+      "narration": "2026년 1월 1일부터 시행이에요! 철도 관련 세무 담당자라면 꼭 체크하세요. 구독 눌러주세요!",
+      "text_overlay": "2026.1.1 시행 | 2028.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

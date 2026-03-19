@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방세 감면 조례 총량 예외 규정 정비",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p052.pdf", "p053.pdf", "p054.pdf", "p055.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §4⑦, 시행령 §2⑧·⑨",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "행안부 장관 허가 방식 폐지, 인구감소지역 총량 예외 추가",
+    "theme": "세무서 창구",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "세무서 창구 배경, 제제가 창구 직원으로 '조례 감면 총량 규정 개편' 공지 게시",
+      "narration": "지방세 감면, 조례로 얼마나 줄 수 있는지 규칙이 바뀌었어요!",
+      "text_overlay": "지방세 감면 조례 총량 예외 규정 정비",
+      "assets": ["jeje_character", "tax_office_bg", "notice_board"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "창구 스크린에 기존 규정 도식화 — 행안부 장관 허가 받으면 총량 예외 가능",
+      "narration": "자자: 기존에는 지자체가 행정안전부장관 허가를 받으면 조례 감면을 총량 한도 밖에서 줄 수 있었어요. 일종의 특별 허가권이었죠.",
+      "text_overlay": "기존: 행안부 장관 허가 → 총량 예외",
+      "assets": ["jaja_character", "flow_diagram"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "창구 스크린에 개정 내용 — 허가 방식 삭제, 협의 방식으로 전환, 인구감소지역 추가 표시",
+      "narration": "이제 이 허가 예외 규정이 삭제돼요! 앞으로는 행안부와 협의하면 총량 비율인 5% 안에서 초과 감면이 가능해요. 그리고 중요한 변화가 있어요. 인구감소지역 경제활력 제고가 총량 별도 대상으로 새로 추가됐어요!",
+      "text_overlay": "개정: 허가 방식 폐지 → 협의 방식 / 인구감소지역 추가",
+      "assets": ["red_warning", "new_category_highlight"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "인구감소지역 지도와 감면 가능 항목 애니메이션",
+      "narration": "예를 들어, 인구감소지역에 있는 지자체는 이제 행안부와 협의하면 감면 총량을 초과해서 조례로 지방세를 추가 감면할 수 있어요. 지역 살리기에 더 적극적으로 나설 수 있는 거죠!",
+      "text_overlay": "인구감소지역 → 총량 초과 감면 협의 가능",
+      "assets": ["map_animation", "population_decline_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "세무서 창구 달력, 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행돼요. 지역 감면 조례 확인해 보세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

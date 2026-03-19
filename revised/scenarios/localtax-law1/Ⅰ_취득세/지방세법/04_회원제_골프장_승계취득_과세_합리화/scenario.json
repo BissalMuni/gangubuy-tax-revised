@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "회원제 골프장 승계취득 과세 합리화",
+    "category": "Ⅰ_취득세/지방세법",
+    "source_pages": ["p017.pdf", "p018.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 §13⑤",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "뉴스스튜디오",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스스튜디오 배경, 제제가 앵커 자리에 앉아 골프 클럽 모형을 들고 등장",
+      "narration": "골프장 살 때 세금 폭탄! 이거 모르면 엄청난 손해예요!",
+      "text_overlay": "회원제 골프장 + 중과세",
+      "assets": ["jeje_character", "뉴스스튜디오_배경"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 리포터로 등장. 화면에 '신설·증설=중과 O / 인수=중과 X' 비교 도식",
+      "narration": "치치: 기존에는 회원제 골프장을 새로 짓거나 늘려서 등록하는 경우에만 취득세 중과세가 됐어요. 무려 일반 세율에 추가로 세율의 4배를 더 내는 거거든요. 근데 기존 골프장을 통째로 사는 경우엔 중과세가 없었어요.",
+      "text_overlay": "기존: 신설·증설 등록만 중과세",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 빨간 속보 자막과 함께 등장. 화면에 '승계취득도 중과세!' 강조 표시. 달력에 2026.1.1 빨간 동그라미",
+      "narration": "2026년 1월 1일부터는 달라요! 등록된 회원제 골프장을 사는 것, 사실상 골프장으로 쓰는 곳을 사는 것, 모두 중과세 대상이 됐어요! 다른 사치성 재산이랑 과세 형평을 맞춘 거예요. 주의하세요, 인수합병이나 매입할 때 세금 계산을 꼭 다시 해봐야 해요!",
+      "text_overlay": "승계취득도 중과세 (2026.1.1~)",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "화면에 세율 계산 도식. 일반세율 + 중과기준세율 × 400% 계산식",
+      "narration": "예를 들어볼게요. 회원제 골프장을 100억에 인수하면, 일반 취득세에 더해서 세율 4% 추가 중과가 적용돼요. 세금이 엄청나게 늘어나니 꼭 사전에 세무사와 상담하세요!",
+      "text_overlay": "세율: 일반세율 + 중과기준세율 × 400%",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "2026년 1월 1일 달력, 제제가 구독 버튼 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 구독하고 놓치지 마세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

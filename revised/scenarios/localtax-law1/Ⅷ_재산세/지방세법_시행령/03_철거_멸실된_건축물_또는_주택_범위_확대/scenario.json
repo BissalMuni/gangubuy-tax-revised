@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "철거 멸실된 건축물 또는 주택 범위 확대",
+    "category": "Ⅷ_재산세/지방세법_시행령",
+    "source_pages": ["p167.pdf", "p168.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제103조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "6개월에서 1년으로 확대 - 재건축 중인 땅 부담 경감",
+    "theme": "요리 방송",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "요리방송 세트장, 제제가 철거된 집 미니어처를 들고 등장",
+      "narration": "집을 허물었는데 땅에 세금이 많이 나온다고요? 2026년부터 유리해졌어요! 이거 꼭 챙겨야 해요!",
+      "text_overlay": "철거 후 토지 재산세",
+      "assets": ["jeje_character", "cooking_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 달력에서 6개월 표시를 가리키는 장면, 이후 달력이 빠르게 넘어가는 애니메이션",
+      "narration": "치치: '건물 허문 다음에 땅에 재산세 어떻게 나와요?' 건축물이나 주택이 철거되면 그 땅은 나대지로 봐서 세금이 확 올라가거든요. 그런데 철거한 날부터 딱 6개월 동안만 건물 있을 때처럼 별도합산으로 봐줬어요.",
+      "text_overlay": "기존: 철거 후 6개월만 별도합산",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "달력에서 6개월 표시가 1년으로 늘어나는 애니메이션, 제제가 빨간 화살표로 강조",
+      "narration": "2026년부터는 이게 1년으로 늘었어요! 건물이나 주택을 철거하고 멸실 신고한 날부터 딱 1년 동안은 별도합산 과세로 봐줘요. 6개월이 지나도 아직 착공 못 했다면 예전엔 세금이 갑자기 올랐는데, 이제 1년 동안은 안전해요!",
+      "text_overlay": "변경: 6개월 → 1년으로 확대",
+      "assets": ["red_warning", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "세금 계산 비교표 - 철거 후 7개월째 기존 vs 개정 후 세금 차이",
+      "narration": "예를 들어 2026년 3월에 주택 철거했는데 12월까지 착공을 못 했다면? 예전엔 9개월째부터 높은 세율이 나왔지만, 이제는 2027년 3월까지 1년간 별도합산이에요. 재건축 준비 기간 세금 부담이 줄어드는 거죠!",
+      "text_overlay": "철거 후 1년간 별도합산 적용",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 제제 요리 완성 포즈",
+      "narration": "2026년 1월 1일 이후 납세의무 성립분부터 적용이에요. 철거 계획 있으신 분들, 참고하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

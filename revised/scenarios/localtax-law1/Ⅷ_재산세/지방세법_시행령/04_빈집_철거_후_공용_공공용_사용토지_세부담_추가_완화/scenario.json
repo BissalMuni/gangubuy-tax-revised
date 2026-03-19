@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "빈집 철거 후 공용 공공용 사용토지 세부담 추가 완화",
+    "category": "Ⅷ_재산세/지방세법_시행령",
+    "source_pages": ["p169.pdf", "p170.pdf", "p171.pdf", "p172.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제103조의2, 제118조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "국가·지자체 협약 공공 활용 시 기간 제한 없이 혜택",
+    "theme": "뉴스 스튜디오",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 제제 앵커가 빈집 철거 뉴스를 발표하는 장면",
+      "narration": "빈집 철거하고 그 땅을 주민들 위해 내놓으셨나요? 2026년부터 세금 혜택이 더 커졌어요! 특히 공공 목적으로 활용 중이라면 꼭 보세요!",
+      "text_overlay": "빈집 철거 후 공공 활용 토지",
+      "assets": ["jeje_character", "news_studio_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "자자가 설명 패널에 '3년', '5년' 숫자를 표시하는 장면",
+      "narration": "기존에는 빈집을 철거하면 3년간 별도합산 혜택을 줬어요. 국가나 지자체와 협약해서 공용·공공용으로 1년 이상 빌려주면? 세부담 상한 계산 시 철거 전 주택 세액을 5년간 기준으로 써줬죠.",
+      "text_overlay": "기존: 별도합산 3년 / 세부담 상한 5년",
+      "assets": ["jaja_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 '기간 제한 없음' 현수막을 들고 등장, 빨간 글씨로 '전체 기간' 강조",
+      "narration": "2026년부터는 더 파격적이에요! 국가·지자체와 협약을 맺고 1년 이상 공용이나 공공용으로 활용하면, 그 기간 전체 동안 별도합산 혜택과 세부담 상한 혜택을 다 받아요. 3년이나 5년 제한이 사라진 거예요!",
+      "text_overlay": "공공 활용 기간 전체 혜택 적용",
+      "assets": ["red_warning", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "빈집 철거 → 지자체 협약 → 10년 공원 활용 시나리오 도식",
+      "narration": "예를 들어, 빈집 철거 후 지자체와 협약해서 10년간 주민 쉼터로 활용한다면? 예전엔 5년이 지나면 세부담 상한 혜택이 끊겼는데, 이제는 10년 내내 혜택을 유지할 수 있어요. 범정부 빈집 관리 종합계획의 후속 조치예요.",
+      "text_overlay": "협약 기간 전체 혜택 유지",
+      "assets": ["jaja_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 제제 앵커 마무리 포즈",
+      "narration": "2026년 1월 1일부터 적용이에요. 빈집 가진 분들, 지자체와 협약 한번 알아보세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

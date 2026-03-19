@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "화력발전 연료별 차등 세율 적용",
+    "category": "Ⅹ_지역자원시설세/지방세법",
+    "source_pages": ["p211.pdf", "p212.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제146조②제3호",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "유연탄 등 0.6→0.7원 인상, LNG는 0.6원 유지",
+    "theme": "탐정 사무소",
+    "characters": ["자자", "제제"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경, 자자가 화력발전소 사진과 연료통 두 개(LNG, 석탄)를 들고 등장",
+      "narration": "화력발전소의 세금, 이제 무슨 연료를 쓰느냐에 따라 달라져요! 석탄 발전하는 기업이라면 반드시 알아야 해요!",
+      "text_overlay": "화력발전 연료별 차등 세율",
+      "assets": ["jaja_character", "detective_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "제제가 단일 세율 0.6원 표지판을 들고 설명하는 장면",
+      "narration": "제제: '화력발전에는 지역자원시설세가 있었죠?' 맞아요! 기존에는 화력발전이면 연료 종류에 관계없이 발전량 킬로와트시당 0.6원을 냈어요. LNG든, 석탄이든 똑같았거든요.",
+      "text_overlay": "기존: 발전량 kWh당 0.6원 단일 세율",
+      "assets": ["jeje_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 두 가지 연료 아이콘과 세율을 비교 표시, 유연탄에 빨간 인상 표시",
+      "narration": "2026년 1월 1일부터 달라져요! 액화천연가스 LNG를 쓰면 기존 그대로 0.6원이에요. 하지만 유연탄 등 일반 연료를 쓰면 0.7원으로 0.1원 인상돼요! 환경비용을 반영해서 연료별로 차등 과세하는 거예요. 석탄발전 기업은 세 부담이 늘어나는 거죠.",
+      "text_overlay": "LNG: 0.6원 유지 / 유연탄 등: 0.7원 인상",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "연간 발전량 10억 kWh 기준 LNG vs 유연탄 세금 차이 계산",
+      "narration": "예를 들어 연간 발전량이 10억 킬로와트시라면, LNG 발전소는 그대로 6억원이에요. 유연탄 발전소는 7억원으로 1억원이 더 나와요! 연간 발전량이 클수록 차이도 커지겠죠.",
+      "text_overlay": "10억 kWh × 0.1원 = 1억원 추가 부담",
+      "assets": ["jeje_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 자자 탐정 마무리 포즈",
+      "narration": "2026년 1월 1일 이후 발전하는 분부터 적용이에요. 화력발전 관련 기업들, 연료 전략 검토해보세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jaja_character"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "인구감소지역 주민 고용 시 법인지방소득세 세액공제 신설",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p223.pdf", "p224.pdf", "p225.pdf", "p226.pdf", "p227.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제167조의5, 시행령 제116조의3",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (법인 대표, 인사담당자)",
+    "emphasis": "6개월 이상 주소 요건 + 1년 이상 계속 근무 요건 동시 충족 필수",
+    "theme": "뉴스스튜디오",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 제제가 앵커석에 앉아 긴급 뉴스 톤으로 시작",
+      "narration": "인구감소지역에 사업장이 있는 기업이라면 지금 바로 이 혜택 확인하세요!",
+      "text_overlay": "법인지방소득세 세액공제 신설",
+      "assets": ["jeje_character", "news_studio_bg", "breaking_news_banner"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "뉴스 화면에 '신설 전' 텍스트, 자자가 패널로 등장",
+      "narration": "기존에는 인구감소지역 소재 기업이 지역 주민을 고용하더라도 법인지방소득세를 따로 줄여주는 제도가 없었어요. 지역에 사람이 있어도 기업이 굳이 그 지역 사람을 뽑을 유인이 부족했던 거죠.",
+      "text_overlay": "기존: 별도 세액공제 없음",
+      "assets": ["jeja_character", "news_studio_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "뉴스 하단 자막에 공제금액 표시, 빨간 경고 강조",
+      "narration": "2026년부터 신설됐어요! 인구감소지역 소재 기업이 그 지역 주민을 1년 이상 고용하면, 직원 1명당 45만 원, 중소기업은 무려 70만 원을 법인지방소득세에서 깎아줘요. 단, 반드시 주의하세요! 직원이 고용 전에 해당 인구감소지역에 6개월 이상 주소가 있어야 하고, 1년 이상 계속 근무해야 해요. 이 두 가지 요건 중 하나라도 빠지면 공제가 안 돼요!",
+      "text_overlay": "1인당 45만원 (중소기업 70만원) / 6개월 주소 + 1년 근무",
+      "assets": ["jeje_character", "news_studio_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "뉴스 그래픽으로 계산 예시 애니메이션",
+      "narration": "예를 들어 볼게요. 인구감소지역에 사업장이 있는 중소기업 A사가 그 지역에 6개월 이상 살던 주민 5명을 신규 채용하고 1년 이상 고용을 유지했다면, 5명 곱하기 70만 원, 총 350만 원을 법인지방소득세에서 공제받을 수 있어요. 일몰은 2028년 12월 31일까지예요.",
+      "text_overlay": "중소기업 5명 고용 → 70만원 × 5명 = 350만원 공제",
+      "assets": ["jaja_character", "news_studio_bg", "calculator_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "뉴스 달력 그래픽에 2026.1.1 표시, 구독 CTA",
+      "narration": "2026년 1월 1일 이후 상시근로자를 고용하는 경우부터 바로 적용됩니다!",
+      "text_overlay": "2026.1.1 시행 / 일몰: 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button", "news_studio_bg"]
+    }
+  ]
+}

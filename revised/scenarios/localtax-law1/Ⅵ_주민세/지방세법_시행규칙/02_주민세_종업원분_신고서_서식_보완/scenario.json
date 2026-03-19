@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "주민세 종업원분 신고서 서식 보완",
+    "category": "Ⅵ_주민세/지방세법_시행규칙",
+    "source_pages": ["p107.pdf", "p108.pdf", "p109.pdf", "p110.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행규칙 제38조의3, 별지 제39호의2서식",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "부동산중개소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 제제가 서류를 들고 등장, 화면에 '신고서 이름이 바뀐다!' 팝업",
+      "narration": "주민세 종업원분 신고서, 이름 바뀐 거 아시나요? 놓치면 신고 오류 날 수 있어요!",
+      "text_overlay": "주민세 종업원분 신고서 서식 보완",
+      "assets": ["jeje_character", "real_estate_background"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 기존 신고서를 들고 보여주는 장면, 서식 제목 부분 확대",
+      "narration": "기존에는 신고서 이름이 주민세(종업원분) 신고서였어요. 괄호 안에 종업원분이 들어가 있는 형태였죠. 기한 내인지 기한 후인지를 구분하는 표시도 없었어요.",
+      "text_overlay": "기존: 주민세(종업원분) 신고서",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 새 서식을 펼치며 변경된 제목 부분에 빨간 밑줄 강조, 기한 내/기한 후 체크박스 확대",
+      "narration": "2026년부터 서식 이름이 주민세 종업원분 (기한 내/기한 후) 신고서로 바뀌어요! 이제 신고할 때 기한 내인지, 기한 후인지 체크박스로 직접 표시해야 해요. 사업소분 신고서와 동일한 형식으로 맞춘 거거든요. 체크를 빠뜨리지 마세요!",
+      "text_overlay": "변경: 주민세 종업원분 (기한 내/기한 후) 신고서",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 신고서 앞면을 보여주며 각 항목 설명, 기한 내/후 체크박스 부분 확대",
+      "narration": "새 서식을 보면요, 제목 옆에 기한 내와 기한 후 체크박스가 생겼어요. 납기 내에 신고하면 기한 내에 체크, 납기 지나서 신고하면 기한 후에 체크하세요. 가산세 계산에 영향을 줄 수 있으니까요.",
+      "text_overlay": "[ ] 기한 내 / [ ] 기한 후 → 반드시 체크",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026년 1월 1일 표시, 제제와 치치가 손 흔들며 인사",
+      "narration": "2024년 12월 31일 개정, 2026년 1월 1일부터 시행이에요. 새 서식으로 신고하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

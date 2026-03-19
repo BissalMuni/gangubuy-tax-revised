@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "동력수상레저기구 재산세 납세지 명확화",
+    "category": "재산세/지방세법",
+    "source_pages": ["p153.pdf", "p154.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제108조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "동력수상레저기구 납세지가 선적항에서 등록지(소유자 주소지)로 변경",
+    "theme": "우주SF",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "제제가 제트스키·모터보트 모형을 들고 등장. 물결 배경",
+      "narration": "제트스키나 모터보트 있으신 분! 재산세 내는 곳이 바뀌었어요!",
+      "text_overlay": "수상레저기구 재산세 납세지 변경!",
+      "assets": ["jeje_character", "우주SF_배경"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "자자가 항구 지도를 가리키며 설명. '선적항 소재지' 표시",
+      "narration": "기존에는 모든 선박이 똑같이 선적항 소재지 기준으로 재산세를 냈어요. 선적항이 없으면 정계장 소재지, 그것도 없으면 소유자 주소지였죠. 그런데 동력수상레저기구는 아예 선적항이 없는 경우가 많아서 혼란이 있었거든요.",
+      "text_overlay": "기존: 선적항 소재지 기준",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 '등록지 = 소유자 주소지'를 빨간 박스로 강조. 취득세와 통일 안내",
+      "narration": "2026년 1월 1일부터는 동력수상레저기구의 재산세 납세지가 등록지, 즉 소유자 주소지로 딱 정해졌어요! 취득세 납세지와도 동일하게 맞췄거든요. 훨씬 간단해졌죠? 이제 헷갈릴 필요 없어요!",
+      "text_overlay": "2026.1.1~ 동력수상레저기구 → 등록지(소유자 주소지)",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "자자가 서울 사는 B씨와 강원도 정박 모터보트 케이스 설명",
+      "narration": "예를 들어, B씨가 서울에 살면서 강원도 춘천에 모터보트를 정박해 뒀다면요. 예전엔 정계장 기준으로 춘천에 납세했지만, 이제부터는 B씨 주소지인 서울로 납세지가 변경돼요. 등록증 주소지 기준이니까 꼭 등록 정보를 최신으로 유지하세요!",
+      "text_overlay": "등록지 = 소유자 주소지로 납세",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "2026년 1월 달력과 구독 버튼",
+      "narration": "2026년 1월 1일부터 시행! 레저기구 등록 정보 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

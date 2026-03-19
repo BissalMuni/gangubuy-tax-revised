@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "자동차검사용 별도합산과세대상 토지 인용조문 정비",
+    "category": "Ⅷ_재산세/지방세법_시행령",
+    "source_pages": ["p163.pdf", "p164.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제101조③",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "실질 변화 없음 - 법 정비일 뿐",
+    "theme": "세무서 창구",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "세무서 창구 배경, 제제가 자동차 검사소 사진을 들고 등장",
+      "narration": "자동차 검사소 땅에 재산세 내시는 분들, 2026년부터 규정이 바뀌었어요! 근데 사실... 달라진 건 없어요.",
+      "text_overlay": "자동차검사용 토지 재산세",
+      "assets": ["jeje_character", "semuse_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 복잡한 법조문 서류를 들고 고개를 갸웃거리는 장면",
+      "narration": "치치: '선생님, 자동차 종합검사 지정업체가 쓰는 땅은 재산세 별도합산 적용되죠?' 맞아요! 기존에는 대기환경보전법 제64조에 따른 업체도 포함됐거든요.",
+      "text_overlay": "기존: 대기환경보전법 제64조 포함",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 법조문 정비 안내판을 들고 설명, 취소선이 그어진 '대기환경보전법 제64조' 텍스트 표시",
+      "narration": "2009년에 배출가스 정밀검사와 자동차 정기검사가 자동차관리법상 종합검사로 통합됐거든요. 그래서 대기환경보전법 제64조가 삭제됐어요. 재산세 시행령도 그에 맞춰 인용조문만 정비한 거예요. 실제로 별도합산 적용받는 업체는 그대로예요!",
+      "text_overlay": "대기환경보전법 제64조 삭제 → 인용조문만 정비",
+      "assets": ["red_warning", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "자동차관리법 제45조의2에 따른 종합검사 지정업체 토지 별도합산 적용 도식",
+      "narration": "예를 들어 자동차관리법 제45조의2에 따른 종합검사 지정업체가 검사용으로 쓰는 땅? 여전히 별도합산 과세예요. 인용조문이 바뀐 거지, 혜택이 없어진 게 아니에요!",
+      "text_overlay": "별도합산 적용 대상 동일 유지",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026.1.1 표시, 제제 엄지척",
+      "narration": "2026년 1월 1일부터 적용이에요. 걱정 마세요, 달라지는 세금 부담은 없답니다!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

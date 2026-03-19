@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "신탁재산 감면 적용 특례 신설",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p232.pdf", "p233.pdf", "p234.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제2조, 제185조, 시행령 제128조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (신탁 활용 부동산 개발자, 기업 자산관리 담당자)",
+    "emphasis": "담보신탁으로 수탁자 명의 등기여도 위탁자 기준 감면 적용 가능",
+    "theme": "탐정사무소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경, 제제가 돋보기로 신탁 서류를 조사하는 장면",
+      "narration": "신탁으로 부동산을 개발했는데 취득세 감면을 못 받으셨다고요? 이제 달라질 수 있어요!",
+      "text_overlay": "신탁재산 감면 적용 특례 신설",
+      "assets": ["jeje_character", "detective_office_bg", "magnifier_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "탐정 사무소 증거판에 '수탁자=소유자' 개념도",
+      "narration": "기존에는 취득세 감면을 받으려면 부동산 소유자가 직접 사용해야 했어요. 신탁에서는 법적 소유자가 수탁자거든요. 그래서 위탁자가 실제로 그 부동산을 개발하고 사용해도, 이름이 수탁자로 등기돼 있어서 감면을 못 받는 경우가 많았어요. 억울하죠?",
+      "text_overlay": "기존: 수탁자 명의 = 감면 불가 문제",
+      "assets": ["chichi_character", "detective_office_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "탐정 사무소 사건 해결 스탬프, 위탁자→수탁자 연결 구조도 애니메이션",
+      "narration": "2026년부터 담보신탁 방식이라면 위탁자도 직접 사용한 것으로 인정받아요! 조건이 두 가지예요. 첫째, 신탁법에 따른 신탁등기가 완료돼야 하고, 둘째, 수탁자가 위탁자의 채무이행을 담보하기 위한 담보신탁이어야 해요. 이 경우 위탁자가 부동산을 개발·건축해서 수탁자 명의로 등기해도, 위탁자가 취득한 것으로 보고 취득세 감면을 적용해 줘요. 단, 납세의무자는 여전히 수탁자예요.",
+      "text_overlay": "담보신탁 + 신탁등기 완료 → 위탁자 기준 감면 적용",
+      "assets": ["jeje_character", "detective_office_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "탐정 사무소 칠판에 사례 흐름도 애니메이션",
+      "narration": "예를 들어볼게요. A법인이 부동산을 담보로 은행 담보신탁을 설정해서 건물을 지었어요. 수탁자인 신탁회사 명의로 등기됐지만, 실제로는 A법인이 감면 요건을 갖추고 해당 목적에 맞게 사용하고 있어요. 2026년부터는 A법인이 취득한 것으로 보아 취득세 감면을 받을 수 있어요!",
+      "text_overlay": "위탁자(A법인) 감면요건 충족 + 담보신탁 → 감면 OK",
+      "assets": ["chichi_character", "detective_office_bg"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "탐정 사무소 달력에 2026.1.1 표시, 사건 종결 도장",
+      "narration": "2026년 1월 1일부터 시행! 신탁 부동산 감면 고민이 있다면 전문가와 상담하세요.",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "detective_office_bg"]
+    }
+  ]
+}

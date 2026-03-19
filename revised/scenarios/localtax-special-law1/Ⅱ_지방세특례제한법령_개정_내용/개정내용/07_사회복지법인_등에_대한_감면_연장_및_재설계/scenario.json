@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "사회복지법인 등에 대한 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p069.pdf", "p070.pdf", "p071.pdf", "p072.pdf", "p073.pdf", "p074.pdf", "p075.pdf", "p076.pdf", "p077.pdf", "p078.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §22",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "사회복지법인 및 시설 운영자",
+    "emphasis": "법인 해산·설립허가 취소·시설 폐쇄 시 추징 추가 — 사후관리 강화",
+    "theme": "뉴스 스튜디오",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 자자가 앵커로 '복지 감면 특보' 자막 등장",
+      "narration": "사회복지법인 운영하시는 분들! 세금 추징 조건이 더 늘었어요. 꼭 확인하세요!",
+      "text_overlay": "사회복지법인 감면 연장 및 재설계",
+      "assets": ["jaja_character", "news_studio_bg", "breaking_news_ticker"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "뉴스 화면에 기존 추징 요건 3가지 목록",
+      "narration": "치치: 기존에는 사회복지법인 감면 후 추징되는 경우가 세 가지였어요. 5년 이내 수익사업 사용, 3년 이내 해당 용도 미사용, 직접 사용 2년 미만에 팔거나 다른 용도로 쓰는 경우였죠.",
+      "text_overlay": "기존 추징 사유: 수익사업·미사용·타 용도",
+      "assets": ["chichi_character", "news_graphic"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "뉴스 화면에 추가된 추징 사유 2가지 빨간 강조",
+      "narration": "2026년부터 추징 사유가 두 개 더 추가돼요! 부동산 취득일부터 3년 이내에 사회복지법인이 해산되거나 설립허가가 취소되면 추징! 그리고 사회복지시설이 폐지신고를 하거나 시설폐쇄 명령을 받아도 추징돼요! 감면 연장은 2028년까지예요.",
+      "text_overlay": "추가: 3년 이내 법인 해산·허가취소·시설폐쇄 → 추징",
+      "assets": ["red_warning", "new_rules_highlight"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "타임라인으로 추징 시기 설명 애니메이션",
+      "narration": "예를 들어 2026년에 건물 취득해서 복지사업 감면 받았는데, 2028년에 법인이 해산된다면? 취득 후 3년 이내니까 감면받은 취득세를 돌려내야 해요!",
+      "text_overlay": "취득 후 3년 이내 법인 해산 → 감면세 추징",
+      "assets": ["timeline_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "뉴스 달력, 구독 CTA",
+      "narration": "2026년 1월 1일 시행, 시행 이후 감면분부터 적용이에요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

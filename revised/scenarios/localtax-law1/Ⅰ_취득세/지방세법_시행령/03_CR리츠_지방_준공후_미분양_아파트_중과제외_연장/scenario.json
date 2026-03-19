@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "CR리츠 지방 준공후 미분양 아파트 중과제외 연장",
+    "category": "Ⅰ_취득세/지방세법_시행령",
+    "source_pages": ["p041.pdf", "p042.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 §28의2 제16호",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "우주SF",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주SF 배경, 제제가 우주복 입고 등장. '미분양 아파트 구출 작전!' 화면 표시",
+      "narration": "지방 미분양 아파트 세금 혜택, 1년 더 연장됐어요!",
+      "text_overlay": "CR리츠 중과제외 연장 2026년까지",
+      "assets": ["jeje_character", "우주SF_배경"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "자자가 우주선 내부에서 설명. 'CR리츠란?' 인포그래픽. '2024.3.28~2025.12.31' 기간 표시",
+      "narration": "자자: CR리츠라는 게 있어요. 기업 구조조정 과정에서 부동산에 투자하기 위한 특수 목적 리츠인데요. 이 CR리츠가 지방의 준공 후 미분양 아파트를 살 때 취득세 중과를 면제해줬어요. 근데 이 혜택이 2025년 12월 31일까지였거든요.",
+      "text_overlay": "기존 혜택기간: 2024.3.28 ~ 2025.12.31",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 '연장!' 버튼을 누르는 장면. '2026년 12월 31일' 새 기간 강조. 빨간색으로 '기한 주의!'",
+      "narration": "2026년 12월 31일까지 1년 더 연장됐어요! 지방 준공 후 미분양 아파트를 취득하는 CR리츠는 중과세 적용 안 받아요. 단, 주의하세요! 2026년 12월 31일이 지나면 이 혜택이 끝나요. 대상 요건은 그대로예요.",
+      "text_overlay": "연장: 2024.3.28 ~ 2026.12.31",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "지도에 '수도권 외 지역' 표시. '준공 후 미분양 아파트' 표시",
+      "narration": "대상 조건은 수도권 밖 지방의 사용검사나 사용승인 후 분양이 안 된 아파트예요. CR리츠가 이걸 2026년 말까지 처음으로 유상 취득하면 중과세 없는 거예요. 주택 시장 안정에 기여하는 정책이에요.",
+      "text_overlay": "대상: 수도권 外 지방 준공후 미분양 아파트",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "2026년 12월 31일 달력, 제제 구독 CTA",
+      "narration": "2026년 12월 31일이 혜택 마감이에요. 구독해주세요!",
+      "text_overlay": "혜택 마감: 2026.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

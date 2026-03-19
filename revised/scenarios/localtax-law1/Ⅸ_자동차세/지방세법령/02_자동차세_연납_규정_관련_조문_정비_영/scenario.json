@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "자동차세 연납 규정 관련 조문 정비 영",
+    "category": "Ⅸ_자동차세/지방세법령",
+    "source_pages": ["p197.pdf", "p198.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제125조③",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "시행령도 법 개정에 맞춰 연납 신고기간별 공제 세액 범위 명확화",
+    "theme": "우주 SF",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주 SF 배경, 자자가 자동차 모형과 계산기를 들고 등장",
+      "narration": "자동차세 연납, 신고 시기에 따라 공제 금액이 다르다는 거 아세요? 시행령도 이번에 더 명확해졌어요!",
+      "text_overlay": "자동차세 연납 시행령 정비",
+      "assets": ["jaja_character", "space_sf_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 시행령 조문과 계산식을 비교하는 장면",
+      "narration": "치치: '자동차세 1월에 연납하면 공제 많이 받잖아요?' 맞아요! 1월에 신고하면 연간 세액의 약 10%를 할인받아요. 그런데 지방세법 제128조가 이번에 바뀌면서 시행령도 맞춰줘야 했어요.",
+      "text_overlay": "연납 신고기간에 따른 공제 범위",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 1월, 3월, 6월, 9월 신고 시기별 공제 표를 보여주는 장면, 빨간 강조",
+      "narration": "2026년부터 시행령도 법 개정에 맞춰 정비됐어요. 연납 신고기간에 따라 공제받는 세액의 범위가 더 명확해졌어요. 1월에 연납하면 2월부터 12월까지, 3월이면 4월부터 12월까지의 해당 세액을 공제받는 구조예요. 실제 공제율은 기존과 동일해요!",
+      "text_overlay": "신고기간별 공제 범위 명확화",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "연간 자동차세 24만원 기준, 1월 연납 시 약 10% 공제 금액 계산 화면",
+      "narration": "예를 들어 연간 자동차세가 24만원이라면, 1월에 연납하면 납부기한 다음 날인 2월 1일부터 12월 31일까지 약 334일치가 공제 대상이에요. 계산 방식은 동일하고, 조문이 계산식과 일치하게 정비된 거예요!",
+      "text_overlay": "2월 1일 ~ 12월 31일 해당 세액 공제",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "우주선에 2026 표시, 자자 정리 포즈",
+      "narration": "2026년 연세액을 한꺼번에 신고납부하는 경우부터 적용이에요. 자동차세 연납 혜택은 그대로예요!",
+      "text_overlay": "2026년 연납분부터 적용",
+      "assets": ["calendar_icon", "subscribe_button", "jaja_character"]
+    }
+  ]
+}

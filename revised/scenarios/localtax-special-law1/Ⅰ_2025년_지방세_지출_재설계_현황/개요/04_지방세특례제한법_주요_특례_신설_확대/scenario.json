@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방세특례제한법 주요 특례 신설 확대",
+    "category": "Ⅰ 2025년 지방세 지출 재설계 현황/개요",
+    "source_pages": ["p041.pdf", "p042.pdf", "p043.pdf", "p044.pdf", "p045.pdf", "p046.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §31조제6항, §33조의3, §34조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "지방 미분양 아파트 취득세 감면 신설 조건",
+    "theme": "부동산 중개소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 제제가 매물 게시판 앞에서 손짓, '신설 감면 특가' 딱지",
+      "narration": "지방세 감면에 신상품이 세 개나 나왔어요! 놓치면 손해예요!",
+      "text_overlay": "2025 지방세특례제한법 신설·확대",
+      "assets": ["jeje_character", "real_estate_office_bg", "new_tag"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 공공매입임대주택 매물 카드를 들고, LH·지방주택공사만 표시된 기존 목록",
+      "narration": "치치: 기존에는 공공매입임대주택 감면이 LH랑 지방주택공사만 받을 수 있었거든요. 그리고 지방 미분양 아파트 개인 구입자는 감면이 아예 없었어요.",
+      "text_overlay": "기존: LH·지방주택공사만 해당",
+      "assets": ["chichi_character", "property_card"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "신규 감면 항목 세 가지가 중개 게시판에 하나씩 붙는 애니메이션, 빨간 조건 경고",
+      "narration": "세 가지가 새로 생겼어요! 첫째, HUG도 공공매입임대 감면 대상에 추가됐어요, 취득세 25%·재산세 50%. 둘째, 지방 준공 후 미분양 아파트 개인 구입자는 취득세 최대 50% 감면! 단, 전용 85㎡·6억 원 이하여야 해요. 셋째, HUG 미분양 안심환매 사업은 취득세·재산세 100% 면제예요!",
+      "text_overlay": "미분양 개인 구입: 취득세 최대 50% / 85㎡·6억 이하",
+      "assets": ["red_warning", "new_policy_cards"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "지방 미분양 아파트 감면 조건 체크리스트 애니메이션",
+      "narration": "지방 미분양 아파트 감면 받으려면요. 수도권 밖이어야 하고, 전용 85㎡ 이하, 취득가 6억 이하, 사업주체한테 처음 사야 하고, 실제 입주 기간이 1년 미만이어야 해요. 조건 하나라도 빠지면 안 돼요!",
+      "text_overlay": "조건: 비수도권·85㎡·6억·최초 취득·입주 1년 미만",
+      "assets": ["checklist_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "부동산 중개소 달력, 구독 CTA",
+      "narration": "미분양 감면 일몰은 2026년 12월 31일이에요. 서두르세요!",
+      "text_overlay": "2026.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "인구감소지역 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p173.pdf", "p174.pdf", "p175.pdf", "p176.pdf", "p177.pdf", "p178.pdf", "p179.pdf", "p180.pdf", "p181.pdf", "p182.pdf", "p183.pdf", "p184.pdf", "p185.pdf", "p186.pdf", "p187.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제75조의5, 시행령 제35조의6",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주택 취득가액 3억→12억 상향, 인구감소관심지역 확대, 감면한도 75만원/150만원 신설",
+    "theme": "뉴스 스튜디오",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 제제가 앵커처럼 등장, 속보 자막",
+      "narration": "속보! 인구감소지역 주택 취득세 감면 한도가 3억에서 12억으로 대폭 확대됐습니다!",
+      "text_overlay": "인구감소지역 주택 감면 대확대",
+      "assets": ["jeje_character", "news_studio_bg", "breaking_news_banner"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "뉴스 자막으로 기존 조건 나열 — 3억 이하, 유상거래, 무주택·1주택자",
+      "narration": "기존에는 무주택자 또는 1가구 1주택자가 인구감소지역에서 유상거래로 집을 살 때, 집값이 3억원 이하여야 취득세 25%를 감면받을 수 있었어요. 조례로 25% 추가 감면도 가능했지만, 감면 한도는 따로 없었고요.",
+      "text_overlay": "기존: 3억 이하, 유상거래, 25% 감면",
+      "assets": ["chichi_character", "news_lower_third"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "인포그래픽 — 12억 상향 숫자 강조, 신축 추가, 관심지역 범위 확장 지도",
+      "narration": "이제 인구감소지역 주택 취득가액 한도가 12억원으로 확 올랐어요! 단, 수도권 내 접경지역은 여전히 3억원이에요. 그리고 유상거래뿐 아니라 신축으로 취득하는 경우도 추가됐고, 지원 지역도 비수도권 인구감소관심지역으로 확대됐어요. 감면한도는 법률상 75만원, 조례 추가감면 시 150만원으로 새로 생겼어요!",
+      "text_overlay": "12억 이하 → 25% 감면 / 한도 75만원(조례 150만원)",
+      "assets": ["jeje_character", "red_warning", "map_infographic"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 5억짜리 인구감소지역 주택 구매 시나리오 카드 설명",
+      "narration": "예를 들어, 5억원짜리 인구감소지역 주택을 유상 취득하면 기존엔 3억 초과라 감면이 안 됐어요. 이제는 가능하죠! 취득세 25% 감면이 적용되는데, 한도가 75만원이니까 실제 절세액은 75만원이에요. 조정대상지역 소재 주택은 제외되고, 동일 시·군·구 주택이 아니어야 해요.",
+      "text_overlay": "5억 주택도 이제 감면 가능! (한도 75만원)",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "뉴스 마무리 화면, 2028.12.31 달력 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 인구감소지역 집 구매 계획 있다면 지금 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

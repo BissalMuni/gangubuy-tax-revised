@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방공기업 등 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p214.pdf", "p215.pdf", "p216.pdf", "p217.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제85조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "사후관리 추징 규정 신설 — 1년 미사용(신축 토지 2년), 사용 개시 2년 내 매각·증여 시 추징",
+    "theme": "만화 왕국",
+    "characters": ["제제", "치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "만화 왕국 배경, 제제·치치·자자 3인이 지방공기업 성채 앞에 등장",
+      "narration": "지방공사·공단·출연기관이라면 주목! 감면 연장됐지만 추징 규정이 새로 생겼어요!",
+      "text_overlay": "지방공기업 감면 연장 + 사후관리 신설",
+      "assets": ["jeje_character", "chichi_character", "jaja_character", "cartoon_kingdom_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "만화 스타일 표 — 지방공사 50%, 지방공단 면제, 출연기관 50% 기존 감면 표시",
+      "narration": "기존에는 지방공사가 목적사업용 부동산에 대해 취득세·재산세 50% 감면, 지방공단은 면제, 지방출자·출연기관은 취득세·재산세 50% 감면을 받았어요. 일몰기한이 2025년 12월 31일이었고, 사후관리 추징 규정이 별도로 없었어요.",
+      "text_overlay": "기존: 공사 50% / 공단 면제 / 출연기관 50%",
+      "assets": ["jaja_character", "cartoon_table_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "만화 왕국의 새 법령 두루마리 펼쳐지며 추징 규정 등장, 빨간 경고 표시",
+      "narration": "감면은 2028년 12월 31일까지 3년 연장됐어요. 그런데 이번에 사후관리 추징 규정이 새로 생겼어요! 취득일부터 1년 안에 직접 사용하지 않으면 추징돼요. 건물을 신축하는 경우 해당 토지는 2년으로 유예 기간이 늘어나요. 그리고 직접 사용 시작 후 2년 내에 팔거나 증여하거나 다른 용도로 쓰면 추징돼요!",
+      "text_overlay": "1년 미사용 → 추징 / 사용 2년 내 매각 → 추징",
+      "assets": ["jeje_character", "red_warning", "scroll_prop"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 타임라인 카드 — 취득일, 1년, 2년 기한 표시",
+      "narration": "예를 들어, 지방공사가 2026년 1월에 취득한 부동산을 2026년 12월까지 사용 시작하지 않으면 추징이에요! 신축 건물의 해당 토지는 2027년 1월까지예요. 또, 2026년 3월부터 직접 사용을 시작했다면 2028년 3월까지는 팔거나 다른 용도로 쓰면 안 돼요.",
+      "text_overlay": "취득 후 1년 내 사용 시작 / 사용 후 2년간 유지",
+      "assets": ["chichi_character", "timeline_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "만화 왕국 성에 달력 2028.12.31 깃발 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 지방공기업이라면 사후관리 기한 꼭 체크하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "산업단지 등 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p191.pdf", "p192.pdf", "p193.pdf", "p194.pdf", "p195.pdf", "p196.pdf", "p197.pdf", "p198.pdf", "p199.pdf", "p200.pdf", "p201.pdf", "p202.pdf", "p203.pdf", "p204.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제78조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "수도권·비수도권·인구감소지역 차등 감면율 재설계, 수도권 감면율 축소, 인구감소지역 우대",
+    "theme": "요리 방송",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "요리 방송 스튜디오, 제제가 셰프 복장으로 '산업단지 감면 레시피'를 소개",
+      "narration": "산업단지 입주하거나 운영하시는 분들, 감면율 레시피가 완전히 바뀌었어요!",
+      "text_overlay": "산업단지 감면 재설계",
+      "assets": ["jeje_character", "cooking_show_bg", "chef_prop"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "요리 칠판에 기존 단일 감면율 표기 — 시행자 35%, 입주기업 50%",
+      "narration": "기존에는 산업단지 조성 시행자는 취득세·재산세 35%, 입주기업은 취득세 50%와 재산세 5년간 35% 감면이었어요. 비수도권의 경우 시행자 재산세 60%, 입주기업 재산세 75%로 다르긴 했지만, 지역별로 세분화가 부족했어요.",
+      "text_overlay": "기존: 시행자 35%, 입주기업 취득세 50%",
+      "assets": ["jaja_character", "chalkboard_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "요리 재료처럼 수도권·비수도권·인구감소지역 3구간 도표가 펼쳐지는 애니메이션",
+      "narration": "이제 지역을 세 구간으로 나눠서 감면율을 재설계했어요! 시행자 기준으로 수도권 15%, 비수도권 35%, 인구감소지역 50%예요. 입주기업은 수도권 35%, 비수도권 50%, 인구감소지역 75%이고요. 수도권 감면율이 줄었으니 수도권 산업단지는 주의하세요! 반대로 인구감소지역은 혜택이 강화됐어요. 일몰기한도 2028년 12월 31일로 3년 연장됐습니다.",
+      "text_overlay": "수도권 15% / 비수도권 35% / 인구감소지역 50~75%",
+      "assets": ["jeje_character", "red_warning", "table_animation"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "비수도권 산업단지 입주기업 사례 카드 — 취득세 50%, 재산세 5년 60%",
+      "narration": "예를 들어, 비수도권 산업단지에 입주하는 기업이라면 취득세 50% 감면, 재산세는 5년간 60% 감면을 받을 수 있어요. 조례로 취득세 25% 추가도 가능해요. 인구감소지역이라면 취득세 75%까지 감면이에요!",
+      "text_overlay": "비수도권 입주기업: 취득세 50%, 재산세 60%",
+      "assets": ["jaja_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "요리 완성 접시 + 달력 2028.12.31 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 산업단지 감면율, 지역별로 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

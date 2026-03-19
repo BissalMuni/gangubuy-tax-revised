@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "매립 간척 토지 분리과세 기산일 취득일 정합성 제고",
+    "category": "Ⅷ_재산세/지방세법_시행령",
+    "source_pages": ["p165.pdf", "p166.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제102조⑦",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "사실상 사용일 추가 - 더 이른 날부터 4년 카운트",
+    "theme": "탐정 사무소",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경, 자자가 돋보기로 지도의 매립지를 살펴보는 장면",
+      "narration": "바다를 메워서 만든 땅, 재산세 분리과세 혜택이 언제부터 시작되는지 아세요? 이거 모르면 억울하게 세금 더 낼 수 있어요!",
+      "text_overlay": "매립·간척 토지 분리과세",
+      "assets": ["jaja_character", "detective_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 달력을 보며 공사준공인가일을 가리키는 장면",
+      "narration": "치치: '매립 토지 분리과세, 공사 준공인가 받은 날부터 4년이죠?' 맞아요. 그런데 공사 끝나기 전에 미리 사용승낙이나 허가를 받으면? 그 날부터 4년이었어요. 근데 문제가 있었어요.",
+      "text_overlay": "기존: 사용승낙일 또는 허가일부터 4년",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 세 개의 날짜 카드를 펼치며 비교 설명, 빨간 원으로 '사실상 사용일' 강조",
+      "narration": "바로 이거예요! 취득세에서는 '사실상 사용일'도 취득 시점으로 보거든요. 그런데 재산세 분리과세 기산일에는 빠져 있었던 거죠. 2026년부터는 사용승낙일·허가일 또는 사실상 사용일 중 가장 빠른 날부터 4년으로 맞췄어요. 취득세 기준과 일치시킨 거예요!",
+      "text_overlay": "사용승낙일 / 허가일 / 사실상 사용일 중 빠른 날",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "타임라인 애니메이션 - 사실상 사용일이 허가일보다 앞서는 경우 도식",
+      "narration": "예를 들어, 준공인가 전에 2025년 3월에 사실상 사용을 시작했고, 허가는 2025년 6월에 받았다면? 더 빠른 3월부터 4년이 시작돼요. 분리과세 혜택 기산일이 당겨지는 거예요.",
+      "text_overlay": "사실상 사용 시작일 = 기산일",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026.1.1 표시, 탐정 자자 엄지척",
+      "narration": "2026년 1월 1일 이후 납세의무 성립분부터 적용이에요. 취득세와 재산세, 이제 딱 맞아떨어졌어요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jaja_character"]
+    }
+  ]
+}

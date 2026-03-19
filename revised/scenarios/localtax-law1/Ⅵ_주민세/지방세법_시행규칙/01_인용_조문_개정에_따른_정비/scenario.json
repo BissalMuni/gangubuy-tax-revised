@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "인용 조문 개정에 따른 정비",
+    "category": "Ⅵ_주민세/지방세법_시행규칙",
+    "source_pages": ["p103.pdf", "p104.pdf", "p105.pdf", "p106.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행규칙 제37조, 별지 제37호서식",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "세무서창구",
+    "characters": ["치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "세무서 창구 배경, 치치가 서식을 들고 갸웃거리는 모습으로 등장",
+      "narration": "주민세 사업소분 신고서 작성하다가 헷갈리신 분들, 서식이 바뀌었어요!",
+      "text_overlay": "주민세 사업소분 신고서 서식 현행화",
+      "assets": ["chichi_character", "tax_office_background"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "자자가 기존 신고서 서식을 펼쳐 보여주며 설명, 특정 조항 부분을 확대",
+      "narration": "기존 주민세 사업소분 신고서 뒤쪽 작성방법을 보면요, 오염물질 배출 사업소를 설명할 때 물환경보전법 또는 대기환경보전법, 이 두 법만 나와 있었거든요.",
+      "text_overlay": "기존: 물환경보전법 + 대기환경보전법만 명시",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 빨간 동그라미로 추가된 법률명을 강조, 개정된 신고서 서식 화면에 팝업",
+      "narration": "2024년 말 상위 법령이 개정되면서 환경오염시설의 통합관리에 관한 법률도 추가됐어요! 이제 신고서 작성방법에 이 법에 따른 개선명령·조업정지명령·사용중지명령·폐쇄명령을 받은 사업소도 오염물질 배출 사업소에 포함된다고 명확히 나와요. 단순 정비지만 중과세 해당 여부 판단 시 꼭 확인하세요!",
+      "text_overlay": "추가: 환경오염시설 통합관리에 관한 법률",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 중과세 계산 비교 그래픽을 가리키며 설명",
+      "narration": "오염물질 배출 사업소로 분류되면 연면적 세율이 1㎡당 250원이 아니라 500원, 딱 두 배가 돼요. 그러니까 환경오염시설 통합관리법에 따른 명령을 받았다면, 이제 신고서에 그 내용을 반영해야 해요.",
+      "text_overlay": "일반: 250원/㎡ → 오염물질 배출: 500원/㎡",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026년 1월 1일 표시, 치치와 자자 인사",
+      "narration": "2026년 1월 1일부터 개정된 서식이 적용돼요. 신고 전에 꼭 새 서식 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

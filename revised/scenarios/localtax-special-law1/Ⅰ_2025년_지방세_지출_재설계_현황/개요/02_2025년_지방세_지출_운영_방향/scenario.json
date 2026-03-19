@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "2025년 지방세 지출 운영 방향",
+    "category": "Ⅰ 2025년 지방세 지출 재설계 현황/개요",
+    "source_pages": ["p010.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제2조의2, 지방재정법",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "최소납부세제 적용 및 일몰 3년 원칙",
+    "theme": "요리 방송",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "요리 방송 세트, 제제가 셰프 모자를 쓰고 '2025 지방세 레시피' 보드 앞에 등장",
+      "narration": "2025년 지방세 감면, 어떻게 바뀌는지 레시피처럼 딱 정리해 드릴게요!",
+      "text_overlay": "2025 지방세 운영 방향",
+      "assets": ["jeje_character", "cooking_studio_bg", "recipe_board"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "요리 재료처럼 감면 항목들이 나열되는 애니메이션, 자자가 옆에서 설명",
+      "narration": "자자: 지금까지는 감면이 너무 포괄적으로 운영됐어요. '고유목적에 사용하는 경우'처럼 기준이 모호한 규정이 많았거든요.",
+      "text_overlay": "기존: 포괄적·추상적 감면 기준",
+      "assets": ["jaja_character", "ingredient_list"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "요리 레시피 화면에 4가지 원칙 순서대로 등장, 빨간 경고 아이콘 함께",
+      "narration": "2025년부터는 네 가지 원칙이 생겼어요. 첫째, 법정 목표율 엄격 준수! 둘째, 최소납부세제 적용 — 취득세 200만 원, 재산세 50만 원 초과하면 면제세액의 15%는 반드시 내야 해요. 셋째, 세목과 지출 성격 연계, 넷째, 일몰 3년 원칙!",
+      "text_overlay": "최소납부: 취득세 200만원 초과 시 15% 부담",
+      "assets": ["red_warning", "four_rules_animation"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "계산기 애니메이션으로 최소납부세제 예시 시각화",
+      "narration": "예를 들어 취득세를 300만 원 감면받는다면? 200만 원을 초과했으니까, 300만 원의 15%인 45만 원은 내야 해요. 완전 면제가 아닌 거죠!",
+      "text_overlay": "감면 300만원 → 실제 부담 45만원",
+      "assets": ["calculator_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "요리 완성 화면, 구독 CTA",
+      "narration": "2026년 1월 1일부터 이 원칙들이 본격 적용돼요. 감면 받기 전에 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

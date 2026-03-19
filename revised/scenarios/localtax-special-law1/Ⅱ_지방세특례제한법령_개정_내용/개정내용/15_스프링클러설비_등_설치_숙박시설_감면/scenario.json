@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "스프링클러설비 등 설치 숙박시설 감면",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p118.pdf", "p119.pdf", "p120.pdf", "p121.pdf", "p122.pdf", "p123.pdf", "p124.pdf", "p125.pdf", "p126.pdf", "p127.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제47조의6",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "뉴스 스튜디오",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경. 제제가 앵커 자리에 앉아 '신설! 숙박시설 스프링클러 설치하면 세금 혜택!' 자막 등장",
+      "narration": "숙박 시설 운영하시는 분들 주목하세요! 스프링클러 달면 취득세 전액 면제에 재산세도 최대 5년간 혜택이에요. 완전 새로 생긴 제도예요!",
+      "text_overlay": "신설! 스프링클러 설치 숙박시설 취득세 면제",
+      "assets": ["news_studio_bg", "anchor_desk", "jeje_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "뉴스 화면에 '기존 규정 없음' 표시. 자자가 소방법 설치의무 대상 도식 설명",
+      "narration": "원래는 이런 감면 제도가 아예 없었어요. 소방시설법상 스프링클러 설치가 의무인 건물은 당연히 달아야 하고, 의무가 아닌 곳은 굳이 달 이유가 없었죠. 그러다 보니 화재 사고가 나도 스프링클러 없는 숙박시설들이 많았어요.",
+      "text_overlay": "기존: 관련 감면 제도 없음",
+      "assets": ["fire_safety_chart", "jaja_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "뉴스 속보 자막. '신설 감면 조건' 화면 전환. 경고 사인과 함께 적용 요건 강조",
+      "narration": "2026년부터 새로 생겼어요! 법상 스프링클러 설치 의무가 없는 숙박 시설이 건축이나 대수선을 하면서 스프링클러를 달면, 취득세가 전액 면제예요! 재산세도 2년 동안 전액 면제하고 그다음 3년은 50% 감면이에요. 단, 조건이 있어요. 소방시설공사 완공검사증명서를 받아야 해요. 일몰은 2028년 12월 31일까지예요.",
+      "text_overlay": "취득세 면제 | 재산세 2년 면제 + 3년 50% 감면",
+      "assets": ["red_warning", "news_breaking_banner", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "뉴스 스튜디오 인포그래픽. 숙박시설 건축 → 스프링클러 설치 → 완공검사증명서 → 감면 신청 흐름도",
+      "narration": "절차를 살펴볼게요. 숙박시설 건축이나 리모델링 때 스프링클러를 달고, 소방서에서 완공검사증명서를 받으면 소방서가 지자체에 통보해줘요. 그러면 지자체에 감면 신청만 하면 돼요. 설치의무 대상인지 아닌지는 소방서에서 확인해줘요.",
+      "text_overlay": "건축·대수선 → 스프링클러 설치 → 완공검사 → 감면신청",
+      "assets": ["infographic_flow", "jaja_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "뉴스 마무리 화면. 달력에 2026.1.1 시행 표시",
+      "narration": "2026년 1월 1일 이후 건축물 취득부터 적용이에요! 숙박업 하신다면 꼭 챙기세요. 구독 눌러주세요!",
+      "text_overlay": "2026.1.1 시행 | 2028.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방농수산물공사 감면 연장 및 최소납부 적용",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p066.pdf", "p067.pdf", "p068.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §15②",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "지방농수산물공사 관계자",
+    "emphasis": "최소납부세제 유예 종료 — 2026년부터 면제세액 15% 반드시 납부",
+    "theme": "카페",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "카페 배경, 제제가 바리스타로 '최소납부세제 종료 스페셜' 음료를 내밀며 등장",
+      "narration": "지방농수산물공사! 오래 유예받던 세금, 이제 내야 할 때가 됐어요!",
+      "text_overlay": "지방농수산물공사 감면 연장 및 최소납부 적용",
+      "assets": ["jeje_character", "cafe_bg", "coffee_cup"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "카페 칠판에 기존 감면 내용 — 취득세·재산세 100%, 최소납부 유예 표시",
+      "narration": "치치: 지방농수산물공사는 도매시장 운영이나 농수산물 유통 사업용 부동산에 대해 취득세·재산세 100% 감면을 받아요. 그런데 최소납부세제는 2017년부터 계속 유예해 왔거든요.",
+      "text_overlay": "기존: 취득세·재산세 100% 감면 + 최소납부 유예",
+      "assets": ["chichi_character", "cafe_chalkboard"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "칠판에 '최소납부세제 유예 종료' 빨간 글씨 추가, 경고 아이콘",
+      "narration": "2026년부터 최소납부세제 유예가 끝나요! 감면율은 그대로 100%인데, 이제 취득세가 200만 원을 넘으면 초과분의 15%, 재산세는 50만 원 초과 시 15%를 반드시 내야 해요. 감면 연장 기간은 2028년 12월 31일까지예요.",
+      "text_overlay": "최소납부: 취득세 200만원 초과 시 15% / 재산세 50만원 초과 시 15%",
+      "assets": ["red_warning", "minimum_tax_diagram"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "카페 계산기로 최소납부세제 계산 예시",
+      "narration": "예를 들어 취득세 면제세액이 1천만 원이라면? 200만 원을 넘으니 1천만 원의 15%인 150만 원은 내야 해요. 재산세도 마찬가지예요. 완전 면제는 아닌 거죠!",
+      "text_overlay": "취득세 면제 1,000만원 → 실제 납부 150만원",
+      "assets": ["calculator_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "카페 달력, 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 예산 계획 다시 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "주택 재산세 납세고지서 개선",
+    "category": "Ⅷ_재산세/지방세법_시행규칙",
+    "source_pages": ["p185.pdf", "p186.pdf", "p187.pdf", "p188.pdf", "p189.pdf", "p190.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행규칙 서식 제59의3",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "고지서 서식만 바뀜 - 세금 부담 변화 없음",
+    "theme": "만화 왕국",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "만화 왕국 배경, 제제가 재산세 고지서를 들고 등장, 고지서에 물음표 표시",
+      "narration": "주택 재산세 고지서에서 지역자원시설세 부분 보신 적 있어요? 2026년부터 고지서 서식이 조금 바뀌어요!",
+      "text_overlay": "주택 재산세 납세고지서",
+      "assets": ["jeje_character", "cartoon_kingdom_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 고지서 뒷면을 보며 '60%'라는 숫자를 가리키는 장면",
+      "narration": "치치: '선생님, 고지서 뒷면에 지역자원시설세 과세표준이 건축물 가액의 60%라고 나와 있던데요?' 맞아요! 기존 고지서에는 공정시장가액비율이 60%로 딱 고정 표기돼 있었거든요.",
+      "text_overlay": "기존 고지서: 건축물 가액 × 60%",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 새 고지서를 보여주며 변경된 부분 강조, 빨간 박스로 표시",
+      "narration": "2026년부터는 고정 숫자 60% 대신 '지방세법 시행령 제109조 제1항 제2호에 따른 비율'이라고 바뀌어요. 왜냐면 공정시장가액비율은 매년 시행령으로 결정되는 거라 고지서에 60%로 고정하면 법령이 바뀔 때마다 서식도 바꿔야 했거든요. 이제 자동으로 현행 비율이 반영돼요!",
+      "text_overlay": "시행령 제109조 제1항 제2호에 따른 비율",
+      "assets": ["red_warning", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "기존 고지서 vs 새 고지서 비교 화면",
+      "narration": "실제 세금이 달라지는 건 아니에요! 서식의 표기 방식만 바뀐 거예요. 치치처럼 헷갈리실 수 있지만, 세금 계산 방법이나 부담은 그대로예요. 다만 나중에 비율이 바뀌어도 고지서 서식은 그대로 유지되는 거죠.",
+      "text_overlay": "세금 부담 변화 없음",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 제제 안심 포즈",
+      "narration": "2026년 1월 1일부터예요. 고지서 숫자 달라 보여도 세금 더 내는 건 아니니 안심하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

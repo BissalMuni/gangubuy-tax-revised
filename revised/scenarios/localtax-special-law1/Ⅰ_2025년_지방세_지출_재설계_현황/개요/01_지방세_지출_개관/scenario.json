@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방세 지출 개관",
+    "category": "Ⅰ 2025년 지방세 지출 재설계 현황/개요",
+    "source_pages": ["p009.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법, 지방재정법 §28의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "지방세 지출 규모와 감면율 현황",
+    "theme": "뉴스 스튜디오",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 제제가 앵커 자리에 앉아 뉴스 자막판 등장",
+      "narration": "여러분, 지방세가 얼마나 깎이는지 알고 계세요? 숫자가 어마어마하거든요!",
+      "text_overlay": "지방세 지출 개관",
+      "assets": ["jeje_character", "news_studio_bg", "news_ticker"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "뉴스 화면에 표 형태로 최근 5년 지방세 비과세·감면 통계 애니메이션",
+      "narration": "지방세 지출이란 비과세랑 감면을 합친 건데요, 2024년 기준으로 무려 16조 3천억 원이나 돼요. 전체 지방세의 12.5%가 깎이는 거죠.",
+      "text_overlay": "2024년 16.3조원 / 감면율 12.5%",
+      "assets": ["chart_animation"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "치치가 놀라는 표정, 제제가 설명 그래픽 제시. 국세와 지방세 비교 인포그래픽",
+      "narration": "치치: 16조라고요? 제제: 네! 그런데 국세 감면율은 16.1%인데, 지방세는 12.5%로 훨씬 낮아요. 정부가 목표치 안에서 엄격하게 관리하고 있거든요. 목표율을 초과하면 새 감면을 못 만들어요!",
+      "text_overlay": "지방세 12.5% vs 국세 16.1%",
+      "assets": ["jeje_character", "chichi_character", "red_warning", "comparison_chart"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "뉴스 화면에 운영 절차 타임라인 애니메이션",
+      "narration": "감면은 아무나 마음대로 만들 수 없어요. 매년 기본계획 수립부터 예비타당성 조사, 지자체 통합심사, 입법예고까지 최소 1년 걸리는 과정을 거쳐야 해요.",
+      "text_overlay": "감면 신설 절차: 기본계획 → 건의 수렴 → 타당성 조사 → 입법예고",
+      "assets": ["timeline_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "뉴스 스튜디오 마무리 컷, 구독 CTA 자막",
+      "narration": "2026년 1월 1일부터 개정된 지방세특례제한법이 시행돼요. 다음 영상도 놓치지 마세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

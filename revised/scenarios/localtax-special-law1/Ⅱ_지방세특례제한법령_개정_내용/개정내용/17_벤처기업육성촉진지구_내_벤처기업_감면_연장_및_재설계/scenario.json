@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "벤처기업육성촉진지구 내 벤처기업 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p134.pdf", "p135.pdf", "p136.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제58조 제4항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "게임 UI",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "게임 UI 배경. 제제가 캐릭터처럼 등장. '벤처기업 세금 감면 업데이트 패치!' 팝업 등장",
+      "narration": "벤처기업육성촉진지구에 입주한 벤처기업이라면! 2026년 감면 패치 내용 확인하세요. 수도권이냐 비수도권이냐에 따라 달라져요!",
+      "text_overlay": "벤처기업 취득세·재산세 감면 업데이트",
+      "assets": ["game_ui_bg", "level_up_popup", "jeje_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "게임 스탯 화면에 기존 감면율 표시. 치치가 '이전 스펙이에요' 설명",
+      "narration": "기존에는 지역 구분 없이 벤처기업육성촉진지구에서 고유업무에 쓰는 부동산이면 취득세 50%, 재산세 35% 감면이었어요. 재산세는 조례로 15%p 더 받을 수도 있었고요.",
+      "text_overlay": "기존: 취득세 50% | 재산세 35%",
+      "assets": ["game_stat_screen", "chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "게임 업데이트 화면. 수도권 스탯 하향 표시, 비수도권 유지. 경고 아이콘",
+      "narration": "2026년부터 수도권 벤처기업은 너프됐어요! 수도권에서는 취득세 35%, 재산세 20%로 깎여요. 비수도권은 기존 그대로 취득세 50%, 재산세 35% 유지예요. 수도권 내에서도 인구감소지역은 비수도권 감면율을 적용받을 수 있으니 확인해보세요. 일몰은 2028년 12월 31일까지 3년 연장됐어요.",
+      "text_overlay": "수도권: 취득세 35%·재산세 20% | 비수도권: 취득세 50%·재산세 35%",
+      "assets": ["red_warning", "nerf_icon", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "게임 비교 화면. 수도권 vs 비수도권 취득세 절감액 비교",
+      "narration": "예를 들어 5억 원짜리 부동산을 취득한다면요. 수도권 벤처기업은 취득세에서 35%를 감면받고, 비수도권 벤처기업은 50%를 감면받아요. 같은 촉진지구 입주 벤처기업인데 입지에 따라 혜택이 달라지는 거죠. 재산세도 조례 적용하면 최대 50%까지 감면 가능해요.",
+      "text_overlay": "수도권 35% vs 비수도권 50%",
+      "assets": ["comparison_screen", "chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "게임 클리어 화면. 2026.1.1 시행 달력",
+      "narration": "2026년 1월 1일부터 적용이에요! 벤처 창업하신다면 입지 선택 때 꼭 참고하세요. 구독 눌러주세요!",
+      "text_overlay": "2026.1.1 시행 | 2028.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

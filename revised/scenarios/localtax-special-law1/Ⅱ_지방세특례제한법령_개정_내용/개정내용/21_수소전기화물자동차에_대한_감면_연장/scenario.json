@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "수소전기화물자동차에 대한 감면 연장",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p146.pdf", "p147.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제66조 제6항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "만화 왕국",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "만화 왕국 배경. 수소 트럭이 구름 위를 달리는 장면. 제제가 영웅 복장으로 '수소 화물트럭 취득세 50% 감면 연장!' 깃발 들고 등장",
+      "narration": "수소전기화물차 구매하면 취득세 절반이에요! 이 혜택이 2028년까지 연장됐어요. 근데 조건이 까다로워요, 꼭 확인하세요!",
+      "text_overlay": "수소전기화물차 취득세 50% 감면 2028까지 연장",
+      "assets": ["cartoon_kingdom_bg", "hydrogen_truck", "jeje_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "만화 왕국 게시판에 기존 감면 내용 표시. 치치가 '이미 있던 혜택이에요!' 설명",
+      "narration": "원래도 수소전기화물차는 취득세를 50% 깎아줬어요. 그런데 이게 2025년 12월 31일로 끝날 예정이었거든요. 수소전기화물차 보급을 더 늘리기 위해 3년 연장한 거예요.",
+      "text_overlay": "기존: 취득세 50% 감면 (2025.12.31 일몰 예정)",
+      "assets": ["bulletin_board", "chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "만화 왕국 영웅 아이템 강조 화면. 수소전기화물차 vs 전기화물차 구분 경고 표시",
+      "narration": "내용은 그대로예요. 취득세 50% 감면, 2028년까지 연장! 근데 중요한 주의사항이 있어요. 수소전기화물차랑 전기화물차는 달라요! 수소전기화물차는 이 조항으로 50% 감면이고, 전기화물차는 다른 조항인 제66조 4항으로 감면 신청해야 해요. 잘못 신청하면 감면 못 받을 수 있어요. 현재 국내에선 현대 엑시언트 1종만 해당돼요.",
+      "text_overlay": "수소전기화물차 50% | 전기화물차는 별도 조항!",
+      "assets": ["red_warning", "vehicle_comparison", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "만화 왕국 쇼핑몰. 수소전기화물차 구입 시 취득세 계산 예시",
+      "narration": "예를 들어 1억 5천만 원짜리 수소전기화물차를 구입한다면요. 취득세율 2%를 적용하면 취득세가 300만 원인데, 50% 감면으로 150만 원만 내면 돼요. 근데 꼭 수소전기자동차로 고시된 차량이고 화물자동차로 분류된 차여야 해요.",
+      "text_overlay": "취득세 300만원 → 150만원 (50% 감면)",
+      "assets": ["shopping_cart", "chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "만화 왕국 달력. 2026.1.1 시행 깃발",
+      "narration": "2026년 1월 1일부터 2028년 12월 31일까지예요! 수소트럭 도입 계획 있다면 꼭 챙기세요. 구독 눌러주세요!",
+      "text_overlay": "2026.1.1 시행 | 2028.12.31 일몰",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

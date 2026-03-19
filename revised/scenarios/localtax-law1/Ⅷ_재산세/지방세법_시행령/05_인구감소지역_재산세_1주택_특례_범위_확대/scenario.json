@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "인구감소지역 재산세 1주택 특례 범위 확대",
+    "category": "Ⅷ_재산세/지방세법_시행령",
+    "source_pages": ["p173.pdf", "p174.pdf", "p175.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제110조의2①",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "인구감소관심지역 9개 추가 + 비수도권 가액기준 4억→9억 상향",
+    "theme": "부동산 중개소",
+    "characters": ["제제", "치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 제제가 지방 지도를 들고 신나게 등장",
+      "narration": "세컨드홈 재산세 특례, 이제 더 많은 지역·더 비싼 집에도 적용돼요! 모르면 손해 볼 수 있으니 꼭 확인하세요!",
+      "text_overlay": "세컨드홈 재산세 1주택 특례",
+      "assets": ["jeje_character", "realestate_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 지도에서 인구감소지역 84개를 손가락으로 짚는 장면",
+      "narration": "치치: '세컨드홈 특례가 뭐예요?' 1주택자가 인구감소지역에 집을 한 채 더 사도 기존 집에 1주택 특례를 그대로 유지해주는 거예요. 지금은 인구감소지역 84개가 대상이고, 공시가격 4억원 이하만 가능했어요.",
+      "text_overlay": "기존: 인구감소지역 84개, 4억원 이하",
+      "assets": ["chichi_character", "jeje_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 두 가지 변경점을 화이트보드에 정리 - 지역 확대 + 가액 상향, 빨간 글씨 강조",
+      "narration": "2026년부터 두 가지가 바뀌어요! 첫째, 인구감소관심지역 18개 중 9개 지역도 새로 포함됐어요. 둘째, 비수도권 인구감소지역은 가액 기준이 공시가격 4억원에서 9억원으로 상향됐어요! 단, 조정대상지역 내 주택은 예외예요.",
+      "text_overlay": "인구감소관심지역 추가 + 비수도권 9억원",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "지방 소도시에서 공시가격 7억 주택 구입 시나리오 도식",
+      "narration": "예를 들어 서울에 집이 있는 분이 비수도권 인구감소지역에 공시가격 7억원짜리 주택을 사면? 예전엔 4억 초과라 특례 못 받았는데, 이제는 9억원 이하라 1주택 특례 그대로 유지돼요!",
+      "text_overlay": "비수도권 인구감소지역: 9억원까지 OK",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 세 캐릭터 모두 등장",
+      "narration": "2026년 1월 1일부터예요. 지방에 집 사려고 계획 중이라면, 지금 바로 해당 지역 확인해보세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character", "chichi_character", "jaja_character"]
+    }
+  ]
+}

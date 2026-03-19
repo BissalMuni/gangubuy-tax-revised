@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "기회발전특구 등 감면 대상 공장 범위 재설계",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p240.pdf", "p241.pdf", "p242.pdf", "p243.pdf", "p244.pdf", "p245.pdf", "p246.pdf", "p247.pdf", "p248.pdf", "p249.pdf", "p250.pdf", "p251.pdf", "p252.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 시행규칙 제8조, 제8조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (기회발전특구 입주 기업, 공장 이전 기업)",
+    "emphasis": "전기·가스·증기 및 공기조절 공급업도 새로 감면 대상에 포함 / LNG 저장시설 등 적용 확대",
+    "theme": "우주SF",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주 SF 배경, 제제가 우주복을 입고 기회발전특구 행성 탐사",
+      "narration": "기회발전특구에 공장을 만들거나 이전하면 지방세 감면받는 거 아시죠? 이제 감면 대상이 더 넓어졌어요!",
+      "text_overlay": "기회발전특구 감면 대상 공장 범위 재설계",
+      "assets": ["jeje_character", "space_sf_bg", "factory_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "우주선 컴퓨터 화면에 '지방세법 별표2' 업종 목록",
+      "narration": "기존에는 기회발전특구나 과밀억제권역 밖으로 이전하는 공장의 감면 대상 업종을 지방세법 시행규칙 별표2에 나열된 제조업으로만 한정했어요. 목록에 없는 업종은 공장을 이전해도 감면을 못 받았거든요. 기준이 좀 복잡하고 불명확했죠.",
+      "text_overlay": "기존: 지방세법 시행규칙 별표2 제조업 업종 한정",
+      "assets": ["jaja_character", "space_sf_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "우주 SF 화면에 새 은하계 등장, 업종 범위 확장 애니메이션",
+      "narration": "2026년부터 기준이 명확해졌어요! 한국표준산업분류에 따른 모든 제조업에 더해 전기, 가스, 증기 및 공기조절 공급업까지 감면 대상이 됐어요. 중요한 점은 LNG 저장시설처럼 옥외 기계장치나 저장·공급시설도 포함돼요. 예를 들어 기회발전특구 내 가스 제조·공급업, 증기 및 냉방공기 공급업에 쓰이는 LNG 저장시설도 이제 감면 대상이에요!",
+      "text_overlay": "변경: 표준산업분류 전체 제조업 + 전기·가스·증기·공기조절 공급업",
+      "assets": ["jeje_character", "space_sf_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "우주 SF 화면에 LNG 저장시설 아이콘, 지도에 울산·서산·여수 표시",
+      "narration": "예를 들어볼게요. 울산 남구, 충남 서산, 전남 여수 같은 기회발전특구 내 LNG 저장시설을 운영하는 기업도 이제 취득세 50% 경감, 재산세 5년 면제 혜택을 받을 수 있어요. 이전엔 별표2에 없어서 못 받았던 혜택이 생기는 거예요!",
+      "text_overlay": "LNG 저장시설 → 취득세 50% 경감 + 재산세 5년 면제",
+      "assets": ["jaja_character", "space_sf_bg", "lng_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "우주 SF 달력에 2026.1.1 표시, 기회발전특구 행성 착륙",
+      "narration": "2026년 1월 1일 이후 납세의무가 성립하는 경우부터 적용됩니다!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "space_sf_bg"]
+    }
+  ]
+}

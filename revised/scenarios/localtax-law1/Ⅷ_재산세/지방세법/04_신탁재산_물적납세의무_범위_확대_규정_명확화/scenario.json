@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "신탁재산 물적납세의무 범위 확대 규정 명확화",
+    "category": "재산세/지방세법",
+    "source_pages": ["p159.pdf", "p160.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제119조의2제1항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "신탁재산 관리·처분·운용으로 얻은 소득 및 재산까지 물적납세의무 범위 확대",
+    "theme": "법원법정",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "법원법정 배경, 자자가 판사복 차림으로 등장. '신탁' 현수막",
+      "narration": "신탁 부동산에 재산세 체납 문제 생기면 이제 책임 범위가 넓어져요! 수탁자라면 주목!",
+      "text_overlay": "신탁재산 물적납세의무 범위 확대!",
+      "assets": ["jaja_character", "법원법정_배경"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 신탁 구조도를 설명. '원래 신탁재산만' 표시",
+      "narration": "기존에는요, 위탁자가 재산세를 체납했을 때 수탁자는 해당 신탁재산 그 자체로만 세금을 납부할 의무가 있었어요. 그리고 그 용어가 가산금이었고요.",
+      "text_overlay": "기존: 해당 신탁재산 자체로만 납부",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 빨간 화살표로 확대된 신탁재산 범위 설명. 신탁법 제27조 인용",
+      "narration": "2026년 1월 1일부터는 신탁재산의 범위가 확대돼요! 신탁재산 자체뿐 아니라, 그 재산을 관리하거나 처분하거나 운용해서 얻은 소득이나 재산까지 모두 포함이에요. 신탁법 제27조에 따른 범위죠. 또 가산금이라는 용어도 납부지연가산세로 바뀌어요.",
+      "text_overlay": "2026.1.1~ 관리·처분·운용으로 얻은 소득·재산도 포함",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 임대수익 흐름도로 설명",
+      "narration": "예를 들어, 수탁자가 신탁 건물을 임대해서 받은 임대수익이 있다면, 이제 그 임대수익도 물적납세의무의 대상 재산에 포함돼요. 위탁자가 재산세를 체납했을 때 그 임대수익으로도 세금을 충당할 수 있는 거예요.",
+      "text_overlay": "임대수익 등 운용 소득도 책임 대상",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "2026년 1월 달력과 구독 버튼",
+      "narration": "2026년 1월 1일부터 시행! 신탁 계약 전 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "반환공여구역 등 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p164.pdf", "p165.pdf", "p166.pdf", "p167.pdf", "p168.pdf", "p169.pdf", "p170.pdf", "p171.pdf", "p172.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제75조의4, 시행령 제35조의5",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "사업장 이전 범위 확대(과밀억제권역→수도권), 감면업종 별표2 신설, 창업 범위 명확화",
+    "theme": "탐정 사무소",
+    "characters": ["제제", "치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경, 제제가 지도 위 미군기지 반환 구역을 가리키며 등장",
+      "narration": "미군 기지 반환 구역으로 이전하면 취득세 면제! 근데 이 조건, 바뀐 거 알고 계세요?",
+      "text_overlay": "반환공여구역 취득세 면제 감면",
+      "assets": ["jeje_character", "detective_office_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "탐정 수첩에 기존 조건 메모 — 과밀억제권역에서만 이전 시 감면",
+      "narration": "기존에는 과밀억제권역, 그러니까 서울 같은 곳에서 반환공여구역으로 이전하는 경우에만 취득세 면제를 받을 수 있었어요. 파주, 용인, 화성, 평택처럼 수도권이지만 과밀억제권역이 아닌 데서 이전하면 감면이 안 됐거든요.",
+      "text_overlay": "기존: 과밀억제권역 → 반환공여구역 이전만 감면",
+      "assets": ["chichi_character", "detective_notebook"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "지도에서 감면 적용 범위가 확대되는 애니메이션, 빨간 경고 박스로 창업 예외 표시",
+      "narration": "이제 수도권 전체에서 반환공여구역으로 이전하면 감면 대상이 돼요! 파주, 용인, 화성, 평택에서 이전해도 이제는 감면받을 수 있어요. 단, 수도권 내 반환공여구역·주변지역에서 이전하는 경우는 제외예요. 그리고 창업의 범위도 명확해졌는데요, 합병·분할·법인전환 등은 창업으로 안 쳐줘요! 감면업종도 별도 별표로 새로 정해졌어요.",
+      "text_overlay": "수도권 전체 → 반환공여구역 이전 감면 확대!",
+      "assets": ["jeje_character", "red_warning", "map_animation"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "자자가 파주 지도 카드 들고 설명, 이전 전후 비교 표",
+      "narration": "예를 들어, 파주에서 사업하다가 경기도 내 반환공여구역으로 이전하면서 창업하는 경우, 전에는 감면이 안 됐는데 이제는 취득세 면제를 받을 수 있어요. 감면 업종에 해당하는지도 반드시 확인하셔야 해요. 야영장업, 의료업, 노인복지시설 등이 새로 추가됐거든요!",
+      "text_overlay": "파주·용인·화성 등 → 이전시 취득세 면제",
+      "assets": ["jaja_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2028.12.31 표시 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 반환공여구역 이전 계획 있다면 지금 바로 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

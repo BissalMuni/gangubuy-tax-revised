@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "생애최초 주택 상시 거주 추징요건 완화",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p093.pdf", "p094.pdf", "p095.pdf", "p096.pdf", "p097.pdf", "p098.pdf", "p099.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제36조의3",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "탐정 사무소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "탐정 사무소 배경. 제제가 돋보기를 들고 '생애최초 취득세 감면, 추징 피하는 법!' 현수막 앞에 등장",
+      "narration": "생애최초로 집 사면서 취득세 감면 받으셨나요? 그런데 나중에 세금 돌려줘야 할 수도 있다는 거 아셨어요?",
+      "text_overlay": "생애최초 취득세 감면 추징 주의!",
+      "assets": ["detective_office_bg", "magnifying_glass", "jeje_character"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "탐정 사무소 칠판에 기존 추징 조건 3가지가 적힌 목록 등장. 치치가 손가락으로 짚으며 확인",
+      "narration": "기존에는 추징 조건이 세 가지였어요. 취득 후 3개월 안에 이사를 안 하거나, 3년 안에 집을 팔거나 임대하거나, 취득 후 3개월 안에 집을 추가로 사면 감면받은 세금을 전부 토해내야 했거든요.",
+      "text_overlay": "기존 추징 3가지 조건",
+      "assets": ["chalkboard_prop", "chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "칠판에서 2가지 조건에 빨간 X 표시. 제제가 경고 사인 들고 '취득일 기준 3년 이내 매각·임대 시만 추징!' 강조",
+      "narration": "2026년부터는 딱 하나만 남아요! 집을 취득한 날부터 3년 이내에 팔거나, 증여하거나, 임대로 돌리면 추징이에요. 3개월 안에 이사 안 해도 괜찮고, 집을 추가로 사도 괜찮아졌어요. 훨씬 완화된 거죠! 단, 2026년 1월 1일 이전에 이미 추징 사유가 발생했으면 기존 규정이 그대로 적용되니까 이건 꼭 기억하세요.",
+      "text_overlay": "취득일부터 3년 이내 매각·임대 시만 추징",
+      "assets": ["red_warning", "red_x_mark", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "탐정 사무소 증거판에 사례 카드 두 개 등장. 사례1: 2024년 1월 취득 → 2025년 11월 매각 = 추징. 사례2: 2024년 1월 취득 → 2025년 11월 이사 → 2027년 2월 매각 = 추징 없음",
+      "narration": "예를 들어볼게요. 2024년 1월에 집 사서 잘 살다가 2025년 11월에 팔면? 구 규정으로 추징이에요. 그런데 2025년 11월에 직장 때문에 잠깐 다른 곳으로 전출했다가 추징 사유 없이 2027년 2월에 파는 경우엔? 개정 규정 적용으로 추징 없어요!",
+      "text_overlay": "사례1: 추징 / 사례2: 추징 없음",
+      "assets": ["evidence_board", "case_cards"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "탐정 사무소 달력에 2026년 1월 1일 동그라미. 제제가 엄지 들고 마무리",
+      "narration": "2026년 1월 1일부터 시행이에요! 더 궁금한 거 있으면 구독하고 알려드릴게요.",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

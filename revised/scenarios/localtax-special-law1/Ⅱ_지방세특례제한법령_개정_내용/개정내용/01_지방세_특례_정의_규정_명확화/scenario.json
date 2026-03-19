@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "지방세 특례 정의 규정 명확화",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p047.pdf", "p048.pdf", "p049.pdf", "p050.pdf", "p051.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §2①5의2·6, §4①, §75의3, §80의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "조례 감면 범위 명확화 및 인구감소지역 정의 신설",
+    "theme": "법원 법정",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "법원 법정 배경, 자자가 판사석에 앉아 '법령 명확화' 망치를 두드림",
+      "narration": "지방세 특례 정의가 모호해서 헷갈렸던 분들! 이제 딱 명확해졌어요!",
+      "text_overlay": "지방세 특례 정의 규정 명확화",
+      "assets": ["jaja_character", "courtroom_bg", "judge_hammer"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "법정 스크린에 기존 조문 표시, 괄호 안에 숨어있는 규정 강조",
+      "narration": "치치: 기존에는 지방세 특례 정의에서 중과세 배제나 재산세 과세대상 구분전환이 괄호 안에 숨겨져 있었거든요. 조례 감면 범위에도 이게 포함되는지 불명확했어요.",
+      "text_overlay": "기존: 괄호로 표현 → 해석 혼란",
+      "assets": ["chichi_character", "law_screen"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "법정 스크린에 개정 조문이 명확하게 열거 형식으로 표시, 인구감소지역 정의 추가",
+      "narration": "자자: 2026년부터 바뀌어요! 괄호 표현을 없애고 중과세 배제, 재산세 과세대상 구분전환을 명시적으로 열거했어요. 그리고 인구감소지역 정의도 새로 생겼고, 조례로도 중과세 배제와 재산세 과세대상 구분전환이 가능하다는 게 명확해졌어요!",
+      "text_overlay": "개정: 중과세 배제·재산세 구분전환 명시 / 인구감소지역 정의 신설",
+      "assets": ["jaja_character", "red_warning", "law_revision_screen"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "조례 감면 범위 Before/After 비교 표",
+      "narration": "쉽게 말하면요, 지자체가 조례로 감면할 수 있는 범위가 더 넓어진 거예요. 세율 경감, 세액감면, 세액공제뿐 아니라 중과세 배제까지 조례로 할 수 있거든요!",
+      "text_overlay": "조례 감면 범위 확대: 세율경감+세액감면+세액공제+중과세배제+재산세구분전환",
+      "assets": ["before_after_table"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "법정 달력, 구독 CTA",
+      "narration": "2026년 1월 1일 시행이에요. 조례 감면 적용 전 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

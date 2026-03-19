@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "개인지방소득세 세액공제 조문 정비",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p221.pdf", "p222.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제167조의3",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "실질 변경 없는 단순 조문 정비 — 납세자 혼란 방지",
+    "theme": "카페",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "아늑한 카페 배경, 치치가 세금 고지서를 들고 당황한 표정",
+      "narration": "세액공제 조문이 바뀌었다고 들었는데, 혹시 내가 손해 보는 건 아닐까요?",
+      "text_overlay": "개인지방소득세 세액공제 조문 정비",
+      "assets": ["chichi_character", "cafe_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "카페 테이블 위 서류, 지방세법 조항 화면 클로즈업",
+      "narration": "기존에는 개인지방소득세 세액공제 조항이 지방세법 제95조 제4항을 인용했어요. 납부서를 받아서 신고기한까지 세액을 내면 공제해 주는 제도거든요.",
+      "text_overlay": "기존: 지방세법 §95④ 인용",
+      "assets": ["chichi_character", "cafe_bg", "document_icon"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "카페 칠판에 조항 번호가 4항→5항으로 업데이트되는 애니메이션, 제제가 설명",
+      "narration": "2026년 1월 1일부터는 인용 조문이 제95조 제5항으로 바뀌어요. 왜냐면 지방세법에 제4항이 새로 신설되면서 기존 제4항이 제5항으로 밀려났거든요. 하지만 걱정 마세요! 실제로 적용되는 내용은 완전히 똑같아요.",
+      "text_overlay": "변경: §95④ → §95⑤ (내용 동일)",
+      "assets": ["jeje_character", "cafe_bg", "arrow_right"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 납부서를 받는 장면, 납부서 → 신고 → 공제 흐름 애니메이션",
+      "narration": "예를 들어 종합소득에 대한 납부서를 지방자치단체에서 받아서 신고기한 안에 납부하면, 예전이나 지금이나 똑같이 세액공제를 받을 수 있어요. 절차도 금액도 바뀐 것이 없답니다.",
+      "text_overlay": "납부서 수령 → 신고기한 내 납부 → 공제 적용",
+      "assets": ["chichi_character", "cafe_bg"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "카페 달력에 2026.1.1 표시, 제제 엄지 척",
+      "narration": "2026년 1월 1일부터 시행이지만, 실질 변경은 없으니 안심하세요!",
+      "text_overlay": "2026.1.1 시행 — 실질 변경 없음",
+      "assets": ["jeje_character", "calendar_icon", "subscribe_button", "cafe_bg"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "빈집 정비를 위한 감면 신설",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p188.pdf", "p189.pdf", "p190.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제75조의6",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "완전 신설 감면 — 빈집 철거 후 재산세 5년 50%, 3년 내 신축 시 취득세 25% (한도 75만원)",
+    "theme": "우주 SF",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주 SF 배경에 낡은 빈집이 철거되고 새 집이 세워지는 SF 애니메이션",
+      "narration": "빈집을 허물고 새 집 짓는다면? 2026년부터 세금 혜택이 생겼어요!",
+      "text_overlay": "빈집 정비 감면 신설",
+      "assets": ["jeje_character", "space_sf_bg", "empty_house_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "기존 조항 없음 표시 — 텅 빈 우주 공간에 '해당 규정 없음' 문구",
+      "narration": "지금까지는 빈집을 철거하면 기존 집이 없어지면서 재산세 부담이 오히려 토지에 부과되는 구조였어요. 그래서 빈집 주인들이 철거를 꺼렸거든요. 이번에 처음으로 감면 규정이 생겼어요!",
+      "text_overlay": "기존: 빈집 감면 규정 없음",
+      "assets": ["chichi_character", "empty_space_animation"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "SF 홀로그램으로 두 가지 혜택 등장 — 재산세 50%와 취득세 25% 카드",
+      "narration": "새로 신설된 혜택은 두 가지예요! 첫째, 빈집을 철거하면 그 토지에 재산세가 5년간 50% 감면돼요. 둘째, 빈집 철거 후 3년 안에 신축하면 취득세 25%가 감면되는데, 한도는 75만원이에요. 조례로 25%와 75만원을 추가 감면받을 수 있어요. 단, 철거 후 토지 소유권이 넘어간 경우나 개발사업으로 철거된 경우는 제외예요!",
+      "text_overlay": "재산세 5년 50% + 취득세 25% (한도 75만원)",
+      "assets": ["jeje_character", "red_warning", "hologram_prop"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 빈집 철거 후 타임라인 카드 — 2026년 철거 → 5년 재산세 감면 → 3년 내 신축 → 취득세 감면",
+      "narration": "예를 들어, 2026년에 빈집을 철거하면 2030년까지 5년간 해당 토지 재산세를 절반만 내요. 그리고 2029년까지 3년 안에 새 집을 지으면 취득세도 25% 감면, 최대 75만원을 아낄 수 있어요. 공동주택이나 오피스텔은 모든 세대가 빈집이어야 감면 적용이 돼요!",
+      "text_overlay": "3년 이내 신축 조건 필수!",
+      "assets": ["chichi_character", "timeline_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "우주 기지 완공 이펙트 + 달력 2026.1.1 + 구독 CTA",
+      "narration": "2026년 1월 1일 이후 빈집이 철거되는 경우부터 적용이에요. 빈집 있다면 지금이 기회예요!",
+      "text_overlay": "2026.1.1 이후 철거분부터 적용",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

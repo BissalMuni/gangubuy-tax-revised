@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "HUG 미분양 안심환매 사업 지방세 감면 신설",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p088.pdf", "p089.pdf", "p090.pdf", "p091.pdf", "p092.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §34⑧·⑨",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "건설 사업주체, 지방 건설 업계 종사자",
+    "emphasis": "추징 요건 — 취득일 3년 이내 정당한 사유 없이 매각 시 감면세 전액 추징",
+    "theme": "우주 SF",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주 SF 배경, 제제가 우주복 차림으로 'HUG 안심환매 신규 감면 특보' 신호를 보냄",
+      "narration": "지방 건설 업계 분들! 전혀 새로운 감면이 생겼어요! HUG 미분양 안심환매 사업이에요!",
+      "text_overlay": "HUG 미분양 안심환매 사업 지방세 감면 신설",
+      "assets": ["jeje_character", "space_sf_bg", "new_signal_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "우주 화면에 지방 건설 위기 상황 인포그래픽 — 미분양 현황",
+      "narration": "자자: 지방 건설 경기가 어렵죠. 준공도 안 된 아파트가 미분양으로 쌓이면 건설사 유동성 위기가 오거든요. 이 문제를 해결하려고 HUG 안심환매 사업이 새로 생겼어요.",
+      "text_overlay": "지방 준공 전 미분양 → 건설사 유동성 위기",
+      "assets": ["jaja_character", "crisis_infographic"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "우주선 화면에 두 가지 감면 항목 표시 — HUG 매입 분과 사업주체 재매입 분",
+      "narration": "새 제도는 두 부분이에요. 첫째, HUG가 지방 준공 전 미분양 공동주택을 2028년 말까지 일시매입하면 취득세·재산세 100% 면제, 최소납부세제도 배제예요. 일몰은 2030년 말. 단, 취득일 3년 이내에 정당한 사유 없이 팔면 추징! 둘째, 사업주체가 환매기간 1년 이내에 다시 사면 취득세 100% 면제예요!",
+      "text_overlay": "HUG 매입: 취득세·재산세 100% / 사업주체 재매입: 취득세 100%",
+      "assets": ["red_warning", "two_part_diagram"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "안심환매 사업 흐름도 애니메이션",
+      "narration": "사업 흐름을 보면요. 건설사가 미분양 아파트를 HUG에 팔고, HUG는 세금 면제받으면서 임대·관리해요. 이후 1년 안에 건설사가 다시 살 수 있는데 이때도 취득세 면제! 건설사 숨통이 트이는 거죠.",
+      "text_overlay": "건설사 → HUG 매각 → 임대 관리 → 건설사 환매",
+      "assets": ["flow_chart_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "우주 달력, 구독 CTA",
+      "narration": "2026년 1월 1일 시행, 일몰은 2030년 12월 31일이에요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2030.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

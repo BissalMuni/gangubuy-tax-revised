@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "이전공공기관 등 지방이전 감면 연장",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p207.pdf", "p208.pdf", "p209.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제81조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "일몰 3년 연장(2025→2028), 이전 직원 주택 취득세 감면 면적별 차등 유지",
+    "theme": "카페",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "아늑한 카페 배경, 제제가 공공기관 이전 소식을 전하며 등장",
+      "narration": "공공기관 지방이전으로 이사 가야 하는 분들, 취득세 감면 혜택 3년 더 연장됐어요!",
+      "text_overlay": "이전공공기관 지방이전 감면 연장",
+      "assets": ["jeje_character", "cafe_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "카페 메뉴판처럼 기존 감면 내용 나열 — 부동산 취득세 50%, 재산세 50%, 이주직원 주택 면적별 감면",
+      "narration": "기존에는 혁신도시 등으로 이전하는 공공기관이 지방이전계획 승인받아 취득하는 부동산에 취득세 50%, 재산세 5년간 50% 감면이었어요. 이전 직원 주택도 면적별로 85제곱미터 이하면 면제, 102제곱미터 이하면 75% 감면, 그 초과는 62.5% 감면이었고요. 이게 2025년 끝날 예정이었어요.",
+      "text_overlay": "기존 일몰: 2025.12.31.",
+      "assets": ["chichi_character", "menu_board_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "카페 달력 페이지가 2025에서 2028로 넘어가는 애니메이션",
+      "narration": "이번 개정은 단순 연장이에요! 내용 변경 없이 일몰기한만 2028년 12월 31일까지 3년 연장됐어요. 이전공공기관 부동산 감면도, 이주직원 주택 감면도 그대로 유지예요. 비자발적으로 거주지를 이전해야 하는 직원들의 주거 안정을 위한 거예요.",
+      "text_overlay": "감면 내용 유지 + 일몰 2028.12.31로 연장",
+      "assets": ["jeje_character", "calendar_icon"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "이전 직원이 이전지역에서 전용 80㎡ 주택 취득하는 사례 카드",
+      "narration": "예를 들어, 공공기관 이전으로 혁신도시에 배치된 직원이 전용면적 80제곱미터 주택을 취득하면 취득세가 전액 면제예요! 1가구 1주택 조건으로 이전지역 거주 목적이어야 하고요. 행정중심복합도시로 이전하는 중앙행정기관 공무원도 동일하게 적용돼요.",
+      "text_overlay": "85㎡ 이하 취득세 면제 / 102㎡ 이하 75% 감면",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "카페 창밖으로 보이는 달력 2028.12.31 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 공공기관 이전 직원이라면 감면 꼭 챙기세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

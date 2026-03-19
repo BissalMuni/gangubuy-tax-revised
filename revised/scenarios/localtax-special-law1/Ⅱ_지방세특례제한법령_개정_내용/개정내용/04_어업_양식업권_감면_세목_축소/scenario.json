@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "어업 양식업권 감면 세목 축소",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p059.pdf", "p060.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §9③",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "어업인, 양식업 종사자",
+    "emphasis": "등록면허세 감면 종료 — 취득세만 유지",
+    "theme": "우주 SF",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "우주 바다 배경, 우주복 입은 제제가 어업권 서류를 들고 등장, 경고등 깜박임",
+      "narration": "어업·양식업 하시는 분들! 등록면허세 감면이 사라진다는 거 알고 계세요?",
+      "text_overlay": "어업·양식업권 감면 세목 축소",
+      "assets": ["jeje_character", "space_ocean_bg", "warning_light"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "우주선 계기판에 취득세·등록면허세 두 항목이 모두 100% 감면으로 표시",
+      "narration": "치치: 지금까지는 어업권이나 양식업권 취득·면허 등록할 때 취득세랑 등록면허세 둘 다 100% 감면이었거든요.",
+      "text_overlay": "기존: 취득세 100% + 등록면허세 100% 감면",
+      "assets": ["chichi_character", "spaceship_dashboard"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "계기판에서 등록면허세 항목에 빨간 X 표시 — 종료 경고, 취득세만 녹색",
+      "narration": "2026년부터는 등록면허세 감면이 종료돼요! 취득세 100% 감면은 3년 더 연장되지만, 등록면허세는 이제 면제 없이 내야 해요. 이유는 행정 행위에 대한 수수료 성격이라서 감면에서 빼는 거예요.",
+      "text_overlay": "개정: 등록면허세 감면 종료 / 취득세 100%는 2028년까지 유지",
+      "assets": ["red_warning", "x_mark", "green_check"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "등록면허세 금액 예시 계산 애니메이션",
+      "narration": "예를 들어, 어업권 면허 등록 때 등록면허세가 50만 원이라면? 예전엔 0원이었는데 이제 50만 원 전액을 내야 해요. 미리 비용 계산해 두세요!",
+      "text_overlay": "등록면허세 50만원 → 이제 전액 납부",
+      "assets": ["calculator_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "우주 달력, 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 어업인 분들 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 취득세 일몰 2028.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

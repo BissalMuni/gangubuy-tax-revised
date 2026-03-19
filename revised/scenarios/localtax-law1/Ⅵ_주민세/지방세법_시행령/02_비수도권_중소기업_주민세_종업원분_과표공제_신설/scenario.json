@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "비수도권 중소기업 주민세 종업원분 과표공제 신설",
+    "category": "Ⅵ_주민세/지방세법_시행령",
+    "source_pages": ["p099.pdf", "p100.pdf", "p101.pdf", "p102.pdf", "p103.pdf", "p104.pdf", "p105.pdf", "p106.pdf", "p107.pdf", "p108.pdf", "p109.pdf", "p110.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행령 제78조의2 제5호 신설",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "뉴스스튜디오",
+    "characters": ["제제", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 세트, 제제가 앵커석에 앉아 긴급 속보 자막과 함께 등장",
+      "narration": "지방 중소기업 사장님들, 이거 놓치면 진짜 손해예요! 장기근속수당 주민세 공제 신설됩니다!",
+      "text_overlay": "장기근속수당 = 주민세 과세표준 공제",
+      "assets": ["jeje_character", "news_studio_background"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "자자가 지도를 펼치며 수도권/비수도권 경계선을 가리키는 모습",
+      "narration": "기존에는 비수도권 중소기업이 장기근속 직원에게 수당을 줘도, 그 돈이 그대로 주민세 종업원분 과세표준에 포함됐어요. 직원 오래 붙잡으려고 수당 줬는데 세금까지 더 내야 했죠.",
+      "text_overlay": "기존: 장기근속수당 → 과세표준 포함",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 빨간 경고 팻말 들고 등장, 지도에 비수도권 지역이 초록색으로 강조됨, 조건 목록 팝업",
+      "narration": "2026년 1월부터 달라져요! 비수도권 소재 중소기업이, 3년 이상 계속 근무한 직원에게 주는 장기근속수당이 과세표준에서 공제돼요! 단, 공제 한도가 있어요. 월 급여의 10%, 그리고 최대 36만원까지만 공제돼요. 이 두 가지 한도 꼭 기억하세요!",
+      "text_overlay": "공제 한도: 월급여 10% or 최대 36만원",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "화면에 두 가지 케이스 계산식 그래픽, 자자가 포인터로 짚어가며 설명",
+      "narration": "예시 두 개 볼게요! A기업, 5년차 직원 월급 300만원에 장기근속수당 40만원 주면요, 공제는 30만원이에요. 월급 300만원의 10%가 30만원이니까요. B기업, 3년차 직원 월급 200만원에 수당 15만원 주면, 공제는 15만원 전액이에요.",
+      "text_overlay": "A: Min(30만, 40만, 36만)=30만 / B: Min(20만, 15만, 36만)=15만",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026년 1월 1일 표시, 제제와 자자가 엄지 척",
+      "narration": "2026년 1월 1일 이후 납세의무 성립분부터 적용돼요. 구독 눌러주시고 더 많은 세금 정보 받아가세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

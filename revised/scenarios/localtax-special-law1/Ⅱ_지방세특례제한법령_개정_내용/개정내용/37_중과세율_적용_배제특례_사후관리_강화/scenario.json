@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "중과세율 적용 배제특례 사후관리 강화",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p230.pdf", "p231.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제180조의2",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (리츠·부동산펀드·PFV 투자자 및 관계자)",
+    "emphasis": "취득일부터 2년 이내에 요건 벗어나면 취득세 중과 추징",
+    "theme": "법원법정",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "법원 법정 배경, 자자가 판사석에 앉아 망치를 두드림",
+      "narration": "리츠나 부동산펀드로 부동산을 취득하셨다면 이것 꼭 아셔야 해요. 모르면 세금 폭탄 맞을 수 있거든요!",
+      "text_overlay": "중과세율 배제특례 사후관리 강화",
+      "assets": ["jaja_character", "courtroom_bg", "judge_hammer"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "법정 화면, 치치가 피고석에 앉아 의아한 표정으로 설명",
+      "narration": "기존에는 리츠, 부동산펀드, PFV, 즉 페이퍼컴퍼니가 대도시 내 부동산을 취득할 때 취득세 중과를 면제받는 특례가 있었어요. 그런데 취득 후에 특례 요건을 충족하지 못하게 돼도 추징할 별도 규정이 없었어요. 실제로 PFV가 중과 면제받고 나서 일반 주식회사로 전환해도 추징이 안 됐던 사례도 있었거든요.",
+      "text_overlay": "기존: 요건 이탈 후에도 추징 규정 없음",
+      "assets": ["chichi_character", "courtroom_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "법정 판결문 화면, 빨간 도장 찍히는 애니메이션",
+      "narration": "2026년 1월 1일부터는 추징 규정이 생겼어요! 부동산 취득 시 중과 배제 특례를 적용받았더라도 취득일부터 2년 이내에 특례 적용대상, 즉 리츠·부동산펀드·PFV 요건에서 벗어나면 감면받은 취득세를 전부 다 돌려내야 해요. 사유 발생일부터 60일 이내에 직접 신고·납부해야 하니 주의하세요!",
+      "text_overlay": "취득 후 2년 이내 요건 이탈 → 취득세 중과세 추징",
+      "assets": ["jaja_character", "courtroom_bg", "red_warning", "judge_hammer"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "법정 증거 화면에 타임라인 애니메이션",
+      "narration": "예를 들어볼게요. PFV가 2026년 3월 부동산을 취득해 중과 배제 특례를 받았어요. 그런데 2027년 6월에 일반 주식회사로 전환됐다면, 취득일부터 2년이 안 됐으니 중과세율로 계산한 취득세 전액을 추징받아요. 2028년 3월 이후에 전환됐다면 2년을 넘겼으니 추징 대상에서 벗어나요.",
+      "text_overlay": "취득일 기준 2년 이내 요건 이탈 = 추징",
+      "assets": ["chichi_character", "courtroom_bg", "timeline_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "법정 달력에 2026.1.1 표시, 판사 망치 두드림",
+      "narration": "2026년 1월 1일 이후 부동산을 취득하는 경우부터 적용됩니다!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "courtroom_bg", "judge_hammer"]
+    }
+  ]
+}

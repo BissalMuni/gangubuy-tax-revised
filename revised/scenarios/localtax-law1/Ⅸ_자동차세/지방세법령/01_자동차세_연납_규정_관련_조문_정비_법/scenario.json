@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "자동차세 연납 규정 관련 조문 정비 법",
+    "category": "Ⅸ_자동차세/지방세법령",
+    "source_pages": ["p193.pdf", "p194.pdf", "p195.pdf", "p196.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제128조③④",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "공제 기간 계산 기준 명확화 - 납부기한 다음 날부터",
+    "theme": "게임 UI",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "게임 UI 배경, 제제가 자동차 아이콘과 달력을 들고 등장",
+      "narration": "자동차세 연납으로 할인 받으시죠? 이번에 계산 기준이 더 명확해졌어요! 세금은 안 더 내도 되니까 잘 들어보세요!",
+      "text_overlay": "자동차세 연납 공제",
+      "assets": ["jeje_character", "game_ui_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 법조문과 계산식을 비교하며 고개를 갸웃거리는 장면",
+      "narration": "치치: '자동차세 연납하면 얼마나 할인돼요?' 연납하면 나머지 기간분을 할인해줘요. 그런데 법 조문에는 '납부기한 이후의 기간(납부기한 포함)'으로 계산한다고 했는데, 계산식에서는 '납부기한 다음 날부터'로 계산했어요. 말이 달랐던 거죠!",
+      "text_overlay": "기존 조문: 납부기한 포함 / 계산식: 납부기한 불포함",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 두 개의 달력을 들고 비교 설명, 빨간 화살표로 '다음 날' 강조",
+      "narration": "2026년부터는 법 조문을 계산식과 일치하게 바꿨어요. 이제 공제 기간은 '납부기한 다음 날부터 12월 31일까지'로 명확해졌어요! 또 연세액 개념도 정리됐어요. '연간 납부해야 할 전체 세액'이 연세액이고, 공제하는 부분은 '나머지 기간 해당 세액'으로 구분했어요.",
+      "text_overlay": "납부기한 다음 날부터 12월 31일까지",
+      "assets": ["red_warning", "jeje_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "1월 연납 신청 시 공제 기간 계산 예시 - 1월 31일 납부기한이면 2월 1일부터 계산",
+      "narration": "예를 들어 1월 연납을 1월 31일에 한다면? 공제 기간은 2월 1일부터 12월 31일까지예요. 조문과 계산식이 맞지 않아 혼란스러웠는데, 이제 딱 정리됐어요. 실제 납부 금액은 기존과 같아요!",
+      "text_overlay": "납부기한 다음 날부터 계산",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "게임 클리어 화면, 2026 표시",
+      "narration": "2026년 연세액을 한꺼번에 신고납부하는 경우부터 적용이에요. 조문 정비라 세금 더 내는 건 없어요!",
+      "text_overlay": "2026년 연납분부터 적용",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "마을회 등 감면 연장 및 재설계",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p218.pdf", "p219.pdf", "p220.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제90조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "선박 재산세 감면 신설, 주민세 감면 종료, 신축 토지 사후관리 2년으로 완화",
+    "theme": "만화 왕국",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "동네 마을 회관 배경(만화 스타일), 제제가 어촌 마을 주민 복장으로 등장",
+      "narration": "마을회 공동 재산, 세금 혜택이 바뀌었어요! 선박도 이제 재산세 면제예요!",
+      "text_overlay": "마을회 등 감면 연장 및 재설계",
+      "assets": ["jeje_character", "village_hall_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "만화 마을 지도에 기존 감면 내용 표시 — 부동산 취득세·재산세·지역자원시설세 면제, 선박 취득세만 면제",
+      "narration": "기존에는 마을회 같은 주민공동체가 공동으로 소유하는 부동산은 취득세·재산세·지역자원시설세를 면제받았어요. 공동소유 선박은 취득세만 면제였고요. 주민세 사업소분과 종업원분도 면제였어요. 일몰기한은 2025년 12월 31일이었어요.",
+      "text_overlay": "기존: 선박 취득세만 면제 / 주민세도 면제",
+      "assets": ["chichi_character", "village_map_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "마을 배에 세금 혜택이 추가되는 이펙트, 주민세 면제 항목에는 X 표시",
+      "narration": "이번 개정으로 선박에도 재산세와 지역자원시설세 면제가 추가됐어요! 도서 지역 주민들 이동권 보장과 양식장 해양환경 개선을 위한 거예요. 단, 주민세 사업소분·종업원분 감면은 이번에 종료됐어요. 감면 효과가 미미했다고 판단했거든요. 그리고 신축의 경우, 해당 토지는 사후관리 유예기간이 1년에서 2년으로 늘어났어요.",
+      "text_overlay": "선박 재산세 추가 면제 / 주민세 감면은 종료!",
+      "assets": ["jeje_character", "red_warning", "boat_icon"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 어촌 마을 공동 선박 사례 카드 — 취득세·재산세·지역자원시설세 전부 면제",
+      "narration": "예를 들어, 어촌 마을회가 공동으로 사용하는 선박이 있다면, 이제 취득세뿐 아니라 재산세와 지역자원시설세까지 면제받을 수 있어요! 단, 수익사업에 사용하거나 유료로 사용하는 부분은 면제 안 돼요. 일몰기한은 2028년 12월 31일까지예요.",
+      "text_overlay": "선박: 취득세 + 재산세 + 지역자원시설세 면제",
+      "assets": ["chichi_character", "boat_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "만화 마을 축제 배경 + 달력 2028.12.31 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 마을회라면 선박 감면 세목 확대 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2028.12.31",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

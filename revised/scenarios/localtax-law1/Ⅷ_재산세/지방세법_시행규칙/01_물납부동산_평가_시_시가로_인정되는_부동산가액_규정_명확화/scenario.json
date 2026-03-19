@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "물납부동산 평가 시 시가로 인정되는 부동산가액 규정 명확화",
+    "category": "Ⅷ_재산세/지방세법_시행규칙",
+    "source_pages": ["p181.pdf", "p182.pdf", "p183.pdf", "p184.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 시행규칙 제60조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "감정평가 기준: 가격산정기준일과 평가서 작성일 모두 평가기간 내여야 함",
+    "theme": "카페",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "카페 배경, 자자가 부동산 감정평가서를 들고 커피를 마시며 등장",
+      "narration": "재산세를 현금 대신 부동산으로 낼 수 있다는 거 아세요? 그 부동산 가격을 어떻게 인정받는지, 이번에 더 명확해졌어요!",
+      "text_overlay": "재산세 물납부동산 평가",
+      "assets": ["jaja_character", "cafe_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 감정평가서를 들고 고개를 갸웃거리는 장면",
+      "narration": "치치: '물납부동산 시가를 어떻게 정하나요?' 기존에는 지방세법 제10조 제5항 제1호·제3호를 인용해서 규정했어요. 국가에서 취득한 가격이나, 판결문·법인장부로 증명되는 취득가격이 시가로 인정됐죠. 감정평가의 경우 평가 기간만 명시돼 있었어요.",
+      "text_overlay": "기존: 법 제10조 인용 방식",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 두 가지 조건을 체크리스트로 보여주는 장면, 빨간 강조",
+      "narration": "2026년부터는 인용 조문을 없애고 본문에 직접 규정했어요. 그리고 감정평가의 경우 더 명확해졌어요! 가격산정기준일과 감정가액평가서 작성일, 이 두 가지가 모두 재산세 과세기준일 전 6개월부터 과세기준일 사이에 있어야 해요!",
+      "text_overlay": "감정평가: 산정기준일 + 작성일 모두 평가기간 내",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "타임라인 - 과세기준일 6개월 전부터 과세기준일까지 구간 표시",
+      "narration": "예를 들어 재산세 과세기준일이 6월 1일이라면, 전년도 12월 1일부터 6월 1일 사이에 가격산정기준일이 있어야 하고, 평가서 작성일도 이 기간 안에 있어야 해요. 하나라도 벗어나면 시가로 인정이 안 될 수 있어요!",
+      "text_overlay": "과세기준일 전 6개월 ~ 과세기준일",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2026.1.1 표시, 자자 정리 포즈",
+      "narration": "2026년 1월 1일부터 적용이에요. 물납 계획이 있다면, 감정평가 일정을 꼼꼼히 챙기세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jaja_character"]
+    }
+  ]
+}

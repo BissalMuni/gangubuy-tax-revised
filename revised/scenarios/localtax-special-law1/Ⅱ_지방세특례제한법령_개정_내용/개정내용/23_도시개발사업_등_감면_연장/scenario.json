@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "도시개발사업 등 감면 연장",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p154.pdf", "p155.pdf", "p156.pdf", "p157.pdf", "p158.pdf", "p159.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제74조, 법률 제19232호 부칙 제11조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "일몰기한 3년 연장(2025→2028), 상속인 포함 확대",
+    "theme": "부동산 중개소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 제제가 재개발·도시개발 관련 서류를 들고 등장",
+      "narration": "재개발·도시개발 구역에 집 있으신 분들, 취득세 감면 기한 놓치면 큰 손해예요!",
+      "text_overlay": "도시개발·재개발 취득세 감면",
+      "assets": ["jeje_character", "real_estate_office_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "중개소 칠판에 감면 내용 표 등장 — 도시개발·주거환경개선·재개발 3가지 항목",
+      "narration": "기존에는 도시개발사업 시행자는 체비지·보류지 취득세 75% 감면, 재개발 구역 소유자는 전용면적 60제곱미터 이하면 75%, 85제곱미터 이하면 50% 감면이 됐거든요. 그런데 이게 2025년 12월 31일로 끝날 예정이었어요.",
+      "text_overlay": "기존 일몰: 2025.12.31.",
+      "assets": ["chichi_character", "chalkboard_prop"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "달력이 2025→2028로 넘어가는 애니메이션, 빨간 강조선으로 상속인 포함 표시",
+      "narration": "2026년부터 이 감면이 3년 더 연장됩니다! 일몰기한이 2028년 12월 31일까지로 늘어났어요. 그리고 주거환경개선사업과 재개발사업의 경우, 부동산 소유자 범위에 상속인도 포함됐어요. 부모님에게 상속받은 경우도 이제 감면 대상이 되는 거예요!",
+      "text_overlay": "연장: 2028.12.31. / 상속인도 감면 대상!",
+      "assets": ["jeje_character", "red_warning", "calendar_icon"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 전용면적 60㎡ 이하 재개발 주택 예시 카드 들고 설명",
+      "narration": "예를 들어, 재개발 구역에서 전용면적 60제곱미터 이하 주택을 취득하면 취득세를 무려 75%나 아낄 수 있어요. 1가구 1주택 조건이고요. 이 혜택이 2028년까지 계속되는 거예요!",
+      "text_overlay": "60㎡ 이하 → 취득세 75% 감면",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력 2028.12.31. 강조 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 재개발·도시개발 관련이라면 꼭 챙기세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

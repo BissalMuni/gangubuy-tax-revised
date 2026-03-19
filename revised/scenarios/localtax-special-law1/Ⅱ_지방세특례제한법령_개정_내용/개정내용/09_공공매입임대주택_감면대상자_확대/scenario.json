@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "공공매입임대주택 감면대상자 확대",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p081.pdf", "p082.pdf", "p083.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 §31⑥",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인, 임대주택 시장 관심자",
+    "emphasis": "HUG 주택도시보증공사 감면 대상 추가 — LH·지방주택공사와 동일 혜택",
+    "theme": "부동산 중개소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 제제가 게시판에 'HUG 입점' 새 매물 카드를 붙이며 등장",
+      "narration": "공공임대주택 지원, 이제 HUG도 받을 수 있어요! 서민 주거에 좋은 소식이에요!",
+      "text_overlay": "공공매입임대주택 감면대상자 확대",
+      "assets": ["jeje_character", "real_estate_office_bg", "new_listing_card"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "중개소 게시판에 기존 대상 목록 — LH, 지방주택공사만 표시",
+      "narration": "치치: 기존에는 공공매입임대주택에 대해 취득세 25%, 재산세 50% 감면이 LH랑 지방주택공사에만 적용됐어요. HUG는 2024년부터 든든전세주택 사업을 시작했는데 감면이 없었거든요.",
+      "text_overlay": "기존 대상: LH + 지방주택공사",
+      "assets": ["chichi_character", "listing_board"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "게시판에 HUG 카드 추가, 세 기관이 나란히 정렬된 애니메이션",
+      "narration": "2026년부터 HUG도 감면 대상에 포함돼요! HUG가 매입해서 임대로 제공하는 주택에도 취득세 25%, 재산세 50% 감면이 적용됩니다. LH나 지방주택공사와 같은 혜택이에요. 서민 임대주택 공급이 더 늘어날 거예요!",
+      "text_overlay": "개정: LH + 지방주택공사 + HUG(주택도시보증공사)",
+      "assets": ["red_warning", "three_institutions_graphic"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "HUG 든든전세주택 예시 애니메이션",
+      "narration": "HUG의 든든전세주택은 전세금 반환보증에서 대위변제한 주택을 HUG가 사들여 무주택자에게 시세 90% 수준으로 공급하는 임대주택이에요. 이제 이 주택 취득에도 세금 혜택이 생기는 거죠!",
+      "text_overlay": "든든전세주택: 시세 90% 공급 → 취득세 25% 감면",
+      "assets": ["hug_housing_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "중개소 달력, 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행, 일몰은 2027년 12월 31일이에요!",
+      "text_overlay": "2026.1.1 시행 / 일몰 2027.12.31.",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "감면대상 청년농업법인 연령기준 완화",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p238.pdf", "p239.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 시행령 제5조의2 제3항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (농업 종사 청년, 농업법인 설립 희망자)",
+    "emphasis": "기존 34세 이하에서 40세 미만으로 확대 — 35~39세도 이제 가능",
+    "theme": "요리방송",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "요리 방송 세트, 제제가 농산물을 들고 등장",
+      "narration": "35살에 농업법인 만들고 싶었는데 감면을 못 받으셨다고요? 이제 달라졌어요!",
+      "text_overlay": "청년농업법인 감면 연령기준 완화",
+      "assets": ["jeje_character", "cooking_show_bg", "farm_produce_icon"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "요리 방송 레시피 카드에 '34세 이하' 기준 표시, 치치가 아쉬운 표정",
+      "narration": "기존에는 농업법인 감면 혜택을 받으려면 대표자가 법인 설립 당시 만 15세 이상 34세 이하여야 했어요. 군 복무 기간을 빼도 최대 34세까지만 인정됐거든요. 35살만 돼도 감면 대상에서 제외됐었죠.",
+      "text_overlay": "기존: 대표자 법인 설립 당시 15세 이상 34세 이하",
+      "assets": ["chichi_character", "cooking_show_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "요리 방송 화면에 '새 레시피 공개!' 자막, 연령 기준 업데이트 애니메이션",
+      "narration": "2026년부터 연령 기준이 바뀌었어요! 이제는 후계청년농어업인법에 따른 청년농어업인에 해당하는 사람이면 돼요. 쉽게 말하면 40세 미만이면 된다는 거예요! 35세부터 39세까지 분들도 이제 청년농업법인 감면을 받을 수 있어요. 다른 정책들과 기준을 맞춘 거거든요. 농업인으로 한정된다는 점은 주의하세요!",
+      "text_overlay": "변경: 40세 미만 (후계청년농어업인법 기준)",
+      "assets": ["jeje_character", "cooking_show_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "요리 방송 타임라인, 38세 농업인 사례 애니메이션",
+      "narration": "예를 들어볼게요. 2026년에 만 38세인 농업인 B씨가 농업법인을 설립했어요. 기존이라면 34세를 초과해서 감면을 못 받았겠지만, 2026년부터는 청년농어업인 기준인 40세 미만에 해당하니까 취득세 등 농업법인 감면 혜택을 받을 수 있어요!",
+      "text_overlay": "38세 농업인 → 기존 불가 / 2026년부터 가능",
+      "assets": ["chichi_character", "cooking_show_bg"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "요리 방송 달력에 2026.1.1 표시, 농업 로고와 함께",
+      "narration": "2026년 1월 1일부터 시행! 35세에서 39세 농업인분들 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "cooking_show_bg"]
+    }
+  ]
+}

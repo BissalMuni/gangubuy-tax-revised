@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "성실신고확인서 제출 법인 신고기한 연장",
+    "category": "Ⅶ_지방소득세/지방세법",
+    "source_pages": ["p125.pdf", "p126.pdf", "p127.pdf", "p128.pdf", "p129.pdf", "p130.pdf", "p131.pdf", "p132.pdf", "p133.pdf", "p134.pdf", "p135.pdf", "p136.pdf", "p137.pdf", "p138.pdf", "p139.pdf", "p140.pdf", "p141.pdf", "p142.pdf", "p143.pdf", "p144.pdf", "p145.pdf", "p146.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제103조의23 제1항",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "주의사항",
+    "theme": "만화왕국",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "만화왕국 배경, 제제가 달력을 들고 헐레벌떡 뛰어오는 만화 스타일 등장",
+      "narration": "성실신고확인서 제출하는 법인분들, 신고 기한이 한 달 늘어났어요! 놓치지 마세요!",
+      "text_overlay": "신고기한 4개월 → 5개월 연장",
+      "assets": ["jeje_character", "cartoon_kingdom_background"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 달력을 보며 4개월 기간을 가리키는 장면",
+      "narration": "기존에는 성실신고확인서를 제출하는 법인이 법인지방소득세를 신고할 때, 사업연도 종료일로부터 4개월 이내에 해야 했어요. 예를 들어 12월 결산법인이면 4월 말까지 신고해야 했죠.",
+      "text_overlay": "기존: 사업연도 종료일로부터 4개월 이내",
+      "assets": []
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "제제가 빨간 달력 팻말을 들고 '1개월 추가!' 강조, 5개월 달력 그래픽",
+      "narration": "2026년 1월 1일부터는 5개월 이내로 1개월 연장돼요! 국세인 법인세도 성실신고확인 대상 법인에게 1개월 추가 기한을 주거든요, 지방소득세도 이에 맞춘 거예요. 주의사항! 이 개정은 2026년 1월 1일 이후 개시하는 사업연도분부터 적용이에요. 2025년 12월 결산 법인은 해당 안 돼요!",
+      "text_overlay": "변경: 사업연도 종료일로부터 5개월 이내",
+      "assets": ["red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 달력으로 신고 기한 예시 설명, 12월 결산법인 기준",
+      "narration": "예를 들어 12월 결산법인 중 성실신고확인서 제출 법인이라면요. 2026년 1월 1일에 개시하는 2026 사업연도분은 2027년 5월 말까지 신고하면 돼요. 세무대리인이 성실신고확인 절차를 거치는 시간을 충분히 확보할 수 있게 된 거예요.",
+      "text_overlay": "12월 결산 성실신고법인: 2026 사업연도분 → 2027.5월 말까지",
+      "assets": []
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026년 1월 1일 표시, 제제와 치치가 여유로운 표정으로 엄지 척",
+      "narration": "2026년 1월 1일 이후 개시 사업연도분부터 적용이에요. 구독하고 놓치지 마세요!",
+      "text_overlay": "2026.1.1 이후 개시 사업연도분부터",
+      "assets": ["calendar_icon", "subscribe_button"]
+    }
+  ]
+}

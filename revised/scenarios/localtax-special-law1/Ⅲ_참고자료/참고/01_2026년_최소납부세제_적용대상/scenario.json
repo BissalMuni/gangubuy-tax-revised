@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "2026년 최소납부세제 적용대상",
+    "category": "Ⅲ_참고자료/참고",
+    "source_pages": ["p253.pdf", "p254.pdf", "p255.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 각 해당 조문",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (지방세 감면 수혜자 전반)",
+    "emphasis": "최소납부세제 = 감면을 받아도 최소 15%는 내야 함 / 적용 대상 목록 확인 필수",
+    "theme": "만화왕국",
+    "characters": ["제제", "치치", "자자"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "만화왕국 배경, 제제가 '최소납부세제 안내소' 간판 앞에 등장",
+      "narration": "지방세 감면을 받고 계신 분들, 혹시 최소납부세제 대상인지 확인하셨나요? 이거 모르면 예상 못한 세금이 나올 수 있어요!",
+      "text_overlay": "2026년 최소납부세제 적용대상 확인",
+      "assets": ["jeje_character", "cartoon_kingdom_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "만화왕국 칠판에 '최소납부세제 개념' 설명, 치치가 어리둥절한 표정",
+      "narration": "최소납부세제가 뭔지 먼저 알아볼게요. 취득세나 재산세를 감면받더라도 일정 기준을 넘으면 최소 15%는 내야 하는 제도예요. 예를 들어 취득세 100을 감면받는 경우라도 85까지만 감면되고 15는 내야 하는 거죠. 이 제도 적용 대상이 매년 조금씩 늘어나고 있어요.",
+      "text_overlay": "최소납부세제: 감면에도 최소 15% 납부 의무",
+      "assets": ["chichi_character", "cartoon_kingdom_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "만화왕국 공고판에 2026년 신규 추가 항목 표시, 빨간 별표",
+      "narration": "2026년부터 새로 적용 대상에 추가된 항목이 있어요! 지방농수산물공사가 새로 추가됐고, 2029년에는 도시철도공사도 추가될 예정이에요. 기존에도 어린이집·유치원, 노동조합, 임대주택, 사회복지법인, 인구감소지역 창업용 부동산 등 56가지가 적용 대상이거든요. 주의하세요! 최소납부세제 대상이라면 감면을 받아도 최소 15%는 납부해야 해요.",
+      "text_overlay": "2026년 신규: 지방농수산물공사 추가 (총 56개 항목)",
+      "assets": ["jeje_character", "cartoon_kingdom_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "만화왕국 계산기 애니메이션, 감면 전후 비교",
+      "narration": "예를 들어볼게요. 인구감소지역에서 창업한 중소기업이 취득세를 1,000만 원 감면받는 대상이라면, 최소납부세제 적용 시 850만 원까지만 감면되고 150만 원은 내야 해요. 자아, 내가 받는 감면이 최소납부세제 대상인지 반드시 미리 확인하세요!",
+      "text_overlay": "감면 1,000만원 → 실제 감면 850만원 / 150만원 납부",
+      "assets": ["jaja_character", "cartoon_kingdom_bg", "calculator_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "만화왕국 달력에 2026.1.1 표시, 제제 손가락 하트",
+      "narration": "2026년 1월 1일부터 적용! 감면받기 전에 꼭 최소납부세제 대상 여부 확인하세요!",
+      "text_overlay": "2026.1.1 기준 / 56개 항목 해당",
+      "assets": ["calendar_icon", "subscribe_button", "cartoon_kingdom_bg"]
+    }
+  ]
+}

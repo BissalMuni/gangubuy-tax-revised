@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "사권 제한토지 등 감면 정비",
+    "category": "Ⅱ 지방세특례제한법령 개정 내용/개정내용",
+    "source_pages": ["p210.pdf", "p211.pdf", "p212.pdf", "p213.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제84조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "'미집행' 범위 명확화, 감면대상 확대(의제 포함), 도시정비사업 조합설립인가 후 3년 내 신청 없으면 제외",
+    "theme": "법원 법정",
+    "characters": ["자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "법정 배경, 자자가 판사처럼 등장, 지도와 서류를 앞에 두고",
+      "narration": "10년째 개발 안 된 내 땅, 재산세 감면 받을 수 있는지 헷갈리셨죠? 기준이 명확해졌어요!",
+      "text_overlay": "사권 제한토지 재산세 감면 정비",
+      "assets": ["jaja_character", "courtroom_bg", "judge_hammer"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "법정 칠판에 기존 모호한 기준 표시 — 10년 이상 미집행, 기준 불명확",
+      "narration": "도시계획시설로 묶여 재산권이 제한된 토지, 즉 10년 이상 장기간 개발이 안 된 땅은 재산세를 경감받을 수 있었어요. 그런데 '미집행'의 기준이 법에 명확히 없어서 실시계획 인가가 진행 중이면 감면에서 빠진다고 운영만 됐거든요. 분쟁이 많았죠.",
+      "text_overlay": "기존: '미집행' 기준 불명확",
+      "assets": ["chichi_character", "court_blackboard"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "법정 화면에 두 가지 명확화 기준이 조문으로 등장, 빨간 밑줄 강조",
+      "narration": "이제 '미집행'의 범위가 법에 딱 명시됐어요! 실시계획의 인가나 그에 상당하는 절차가 진행 중이면 미집행이 아닌 것으로 봐서 감면에서 제외예요. 도시정비사업은 조합설립인가를 받은 날부터 3년 이내에 사업시행계획인가를 신청하지 않으면 감면에서 빠져요! 그리고 반대로, 다른 법률에 따라 도시·군관리계획이 의제되는 경우도 이제 감면 대상에 포함됐어요.",
+      "text_overlay": "조합설립인가 후 3년 내 미신청 → 감면 제외!",
+      "assets": ["jaja_character", "red_warning", "legal_document_prop"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "치치가 재개발 조합 타임라인 카드 — 조합설립인가일 + 3년 기한 표시",
+      "narration": "예를 들어, 재개발 조합이 2024년에 설립인가를 받았다면 2027년까지 사업시행계획인가를 신청해야 해요. 3년 안에 신청 못 하면 그 땅은 '미집행'에서 빠져서 재산세 감면을 못 받아요! 미리 일정 관리하는 게 중요하죠.",
+      "text_overlay": "조합설립인가 후 3년 이내 신청 필수!",
+      "assets": ["chichi_character", "timeline_animation"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "법정 판사 망치 + 달력 2026.1.1 + 구독 CTA",
+      "narration": "2026년 1월 1일부터 시행이에요. 도시계획시설 묶인 땅 있다면 기준 꼭 확인하세요!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "judge_hammer"]
+    }
+  ]
+}

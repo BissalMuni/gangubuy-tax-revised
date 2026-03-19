@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "폐기물매립시설 특정시설분 신규 과세",
+    "category": "Ⅹ_지역자원시설세/지방세법",
+    "source_pages": ["p203.pdf", "p204.pdf", "p205.pdf", "p206.pdf", "p207.pdf", "p208.pdf", "p209.pdf", "p210.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세법 제142조~제144조, 제146조②제4호, 제147조⑦",
+    "effective_date": "2026-07-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인",
+    "emphasis": "2026.7.1부터 폐기물 배출자에게 톤당 6천원 신규 과세",
+    "theme": "뉴스 스튜디오",
+    "characters": ["제제", "자자", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "뉴스 스튜디오 배경, 제제 앵커가 폐기물 매립지 화면을 배경으로 속보 전달",
+      "narration": "2026년 7월부터 쓰레기 매립하는 기업에 새로운 세금이 생겼어요! 폐기물을 배출하는 사업자라면 이 세금 꼭 알아야 해요!",
+      "text_overlay": "폐기물매립시설 신규 과세",
+      "assets": ["jeje_character", "news_studio_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "치치가 지역자원시설세 과세 대상 목록에서 폐기물 항목이 없는 화면을 보는 장면",
+      "narration": "치치: '지역자원시설세가 뭐예요?' 원래 특정 시설에서 발생하는 환경 부담을 이유로 매기는 세금이에요. 컨테이너, 원자력발전, 화력발전에는 있었는데, 폐기물 매립에는 없었어요. 그래서 이번에 신설됐어요!",
+      "text_overlay": "기존: 폐기물 매립 과세 없음",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "자자가 빨간 경고 배너와 함께 신규 과세 요건을 칠판에 정리하는 장면",
+      "narration": "2026년 7월 1일부터 시행이에요! 둘 이상의 광역자치단체가 공동으로 설치한 폐기물매립시설에 매립하는 폐기물이 과세 대상이에요. 납세의무자는 폐기물을 배출한 자이고, 세율은 매립량 톤당 6천원이에요! 단, 지자체가 조례로 부과 지역과 징수 방법을 정해야 실제 부과돼요.",
+      "text_overlay": "폐기물 매립량 톤당 6,000원",
+      "assets": ["red_warning", "jaja_character"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "공동 광역 매립지에 폐기물 100톤 매립 시 세금 계산 화면",
+      "narration": "예를 들어 폐기물 100톤을 매립한다면? 100톤 곱하기 6천원 = 60만원이에요. 이 세금은 매립시설 소재지 시·군·구가 징수해서 65%를 해당 지자체에 돌려줘요. 지역 환경 관리 재원으로 쓰이는 거죠!",
+      "text_overlay": "100톤 × 6,000원 = 600,000원",
+      "assets": ["chichi_character"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "달력에 2026.7.1 빨간 표시, 세 캐릭터 모두 등장",
+      "narration": "2026년 7월 1일부터 적용이에요. 폐기물 배출 사업자, 미리 준비해두세요!",
+      "text_overlay": "2026.7.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "jeje_character", "chichi_character", "jaja_character"]
+    }
+  ]
+}

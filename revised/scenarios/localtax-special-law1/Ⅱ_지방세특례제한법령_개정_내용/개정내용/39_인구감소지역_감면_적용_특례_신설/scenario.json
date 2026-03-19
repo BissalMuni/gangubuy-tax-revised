@@ -1,0 +1,62 @@
+{
+  "_info": {
+    "title": "인구감소지역 감면 적용 특례 신설",
+    "category": "Ⅱ_지방세특례제한법령_개정_내용/개정내용",
+    "source_pages": ["p235.pdf", "p236.pdf", "p237.pdf"],
+    "duration_target": "60초",
+    "law_reference": "지방세특례제한법 제186조",
+    "effective_date": "2026-01-01",
+    "tone": "친근한 대화체",
+    "target_audience": "일반인 (인구감소지역 부동산 매수자, 개발자)",
+    "emphasis": "매매계약 또는 착공 당시 인구감소지역이면 이후 지정 해제돼도 감면 유지",
+    "theme": "부동산중개소",
+    "characters": ["제제", "치치"]
+  },
+  "scenes": [
+    {
+      "scene_id": 1,
+      "duration": "5초",
+      "type": "intro",
+      "visual": "부동산 중개소 배경, 치치가 계약서를 들고 당황한 표정",
+      "narration": "인구감소지역에 투자했는데 갑자기 지정이 해제됐다고요? 감면 혜택 날아갈까봐 걱정하셨죠?",
+      "text_overlay": "인구감소지역 감면 적용 특례 신설",
+      "assets": ["chichi_character", "real_estate_bg"]
+    },
+    {
+      "scene_id": 2,
+      "duration": "15초",
+      "type": "before",
+      "visual": "중개소 지도에서 인구감소지역 표시가 사라지는 애니메이션",
+      "narration": "기존에는 취득일 기준으로 인구감소지역이어야 감면을 받을 수 있었어요. 그런데 계약 당시에는 인구감소지역이었는데 실제 등기할 때 지정이 해제돼버리면 감면을 못 받는 억울한 상황이 생겼었거든요. 믿고 투자한 사람이 피해를 보는 거죠.",
+      "text_overlay": "기존: 취득일 기준 인구감소지역이어야 감면",
+      "assets": ["jeje_character", "real_estate_bg"]
+    },
+    {
+      "scene_id": 3,
+      "duration": "20초",
+      "type": "after",
+      "visual": "중개소 게시판에 '특례 신설' 공고, 취득세·재산세·법인지방소득세 세 가지 화살표 애니메이션",
+      "narration": "2026년부터 납세자 신뢰를 보호하는 특례가 생겼어요! 취득세는 매매계약 체결 당시나 착공 당시에 인구감소지역이었다면 취득일에 지정 해제돼도 감면돼요. 재산세는 취득 당시 인구감소지역이었으면 잔여 감면기간 동안 계속 감면이 적용돼요. 재산세 감면은 5년간 50%거든요. 법인지방소득세 공제도 마찬가지예요. 고용할 때 인구감소지역이었으면 1년 안에 지역 지정이 해제돼도 공제받을 수 있어요!",
+      "text_overlay": "계약·착공·취득 당시 기준 → 이후 지정 해제돼도 감면 유지",
+      "assets": ["jeje_character", "real_estate_bg", "red_warning"]
+    },
+    {
+      "scene_id": 4,
+      "duration": "15초",
+      "type": "example",
+      "visual": "중개소 계약 타임라인 애니메이션",
+      "narration": "예를 들어볼게요. 2026년 2월 인구감소지역 A에서 아파트 매매계약을 맺고 계약금을 냈어요. 그런데 2026년 10월 취득 시점에 A지역이 인구감소지역에서 빠져버렸어요. 이전엔 감면 불가였지만, 이제는 계약 당시 인구감소지역이었으니까 취득세 감면을 그대로 받을 수 있어요!",
+      "text_overlay": "계약 당시 인구감소지역 → 취득 시 해제돼도 감면 OK",
+      "assets": ["chichi_character", "real_estate_bg", "contract_icon"]
+    },
+    {
+      "scene_id": 5,
+      "duration": "5초",
+      "type": "outro",
+      "visual": "중개소 달력에 2026.1.1 표시, 제제 엄지 척",
+      "narration": "2026년 1월 1일 이후 납세의무가 성립하는 경우부터 적용됩니다!",
+      "text_overlay": "2026.1.1 시행",
+      "assets": ["calendar_icon", "subscribe_button", "real_estate_bg"]
+    }
+  ]
+}
